@@ -12,20 +12,19 @@ st.set_page_config(
 
 PROJECT_DIR = Path(__file__).resolve().parent
 
+
 @st.cache_data
 def load_data():
-    data_dir = PROJECT_DIR / "data" / "processed"
-    export_dir = PROJECT_DIR / "power_bi"
-
-    songs = pd.read_csv(data_dir / "spain_top50_cleaned.csv")
-    lifecycle = pd.read_csv(export_dir / "song_lifecycle.csv")
-    stages = pd.read_csv(export_dir / "lifecycle_stages.csv")
-    rotation = pd.read_csv(export_dir / "daily_rotation.csv")
+    songs = pd.read_csv(PROJECT_DIR / "spain_top50_cleaned.csv")
+    lifecycle = pd.read_csv(PROJECT_DIR / "song_lifecycle.csv")
+    stages = pd.read_csv(PROJECT_DIR / "lifecycle_stages.csv")
+    rotation = pd.read_csv(PROJECT_DIR / "daily_rotation.csv")
 
     songs["date"] = pd.to_datetime(songs["date"], errors="coerce")
     rotation["date"] = pd.to_datetime(rotation["date"], errors="coerce")
 
     return songs, lifecycle, stages, rotation
+
 
 songs, lifecycle, stages, rotation = load_data()
 
