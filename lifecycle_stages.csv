@@ -1,0 +1,584 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,is_explicit,album_cover_url,previous_date,previous_position,rank_change,consecutive_day,entry_date,lifecycle_stage
+2025-06-23,42,0 CONFIANZA,Rvfv,62,217500,album,20,False,https://i.scdn.co/image/ab67616d0000b273c172e893cf2ab48a3bb62d04,2025-06-22,42.0,0.0,True,2025-06-02,Other / Unclassified
+2025-04-28,45,"1 de Enero, Puntacana",Rels B,65,95000,album,13,False,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,,,,False,2025-04-28,Other / Unclassified
+2025-11-13,44,1000COSAS,Lola Indigo & Manuel Turizo,72,239482,single,1,False,https://i.scdn.co/image/ab67616d0000b27382bab0e22f0937d4cf16784e,2025-11-12,41.0,-3.0,True,2025-03-10,Decline Phase
+2025-05-15,37,100xCiento,Foreign Teck & Eladio Carrion & De La Ghetto,75,219682,single,1,True,https://i.scdn.co/image/ab67616d0000b2733bd4ca02e16a2cea867006b3,2025-05-13,19.0,-18.0,False,2025-04-30,Other / Unclassified
+2025-11-27,16,14 FEBREROS,Quevedo,68,172422,album,18,True,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,16.0,0.0,True,2025-11-24,New Entry
+2025-11-27,31,2AM,Sebastian Yatra & Bad Gyal,64,196426,single,1,False,https://i.scdn.co/image/ab67616d0000b273cbf15d1a18de0d7e48a10e6d,2025-11-26,39.0,8.0,True,2025-11-24,New Entry
+2025-08-09,47,2xLL,JC Reyes & YOVNGCHIMI & Slayter,71,178909,single,1,False,https://i.scdn.co/image/ab67616d0000b2735b11a6d760b5aedc1685ddea,2025-08-08,49.0,2.0,True,2025-07-12,Growth Phase
+2025-05-05,47,3 CAÍDAS,SAIKO,69,251565,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-04,42.0,-5.0,True,2025-04-28,Decline Phase
+2024-05-29,46,4 PREZ,Cruz Cafuné,56,149484,album,23,True,https://i.scdn.co/image/ab67616d0000b2734102f96ba4b1df4dfe8bc35f,2024-05-28,35.0,-11.0,True,2024-05-28,Decline Phase
+2025-07-16,50,4TO 23,Aitana,69,168320,single,1,False,https://i.scdn.co/image/ab67616d0000b273360a980301ef46ad21110f34,2025-07-15,50.0,0.0,True,2025-07-07,Other / Unclassified
+2024-12-02,38,50 PALOS,Feid,0,167240,album,10,True,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,,,,False,2024-12-02,Other / Unclassified
+2025-11-27,41,57,KAROL G & Feid & DFZM,85,298130,single,1,True,https://i.scdn.co/image/ab67616d0000b273c665371d5e70273a44a8e301,2025-11-26,41.0,0.0,True,2025-11-10,Other / Unclassified
+2025-09-18,45,58,JHAYCO,68,287586,album,29,False,https://i.scdn.co/image/ab67616d0000b273ed133ea8f343f0f451346a44,2025-09-16,49.0,4.0,False,2025-09-08,Other / Unclassified
+2024-06-30,49,69,Nicky Jam & Feid,87,221935,single,1,True,https://i.scdn.co/image/ab67616d0000b273ea97d86f1fa8532cd8c75188,2024-06-29,49.0,0.0,True,2024-05-21,Other / Unclassified
+2025-01-05,15,A 300,JC Reyes & Pedro Calderon,77,169208,single,1,False,https://i.scdn.co/image/ab67616d0000b2738274465afec06d55b3493a59,2025-01-04,18.0,3.0,True,2024-08-06,Growth Phase
+2025-04-24,32,A 300,JC Reyes & Pedro Calderon & Blacknife,76,169208,single,1,False,https://i.scdn.co/image/ab67616d0000b2738274465afec06d55b3493a59,2025-04-23,28.0,-4.0,True,2025-01-06,Decline Phase
+2024-10-20,48,ACHO PR,Bad Bunny,85,359647,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-19,46.0,-2.0,True,2024-10-14,Decline Phase
+2025-11-16,49,ADIVINO,Myke Towers,74,278644,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-11-15,50.0,1.0,True,2025-08-24,Growth Phase
+2025-08-23,20,ADIVINO,Myke Towers & Bad Bunny,87,278644,single,1,True,https://i.scdn.co/image/ab67616d0000b273b41f34aa51be675c5cfd3d94,2025-08-22,21.0,1.0,True,2025-04-28,Growth Phase
+2024-12-05,48,ALAKRAN,Feid,73,90613,album,10,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,2024-12-03,46.0,-2.0,False,2024-12-02,Other / Unclassified
+2025-11-27,18,AMANECIÓ,Quevedo,68,255333,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,18.0,0.0,True,2025-11-24,New Entry
+2025-10-31,49,AMARGURA,KAROL G,85,170480,album,17,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335,2025-10-30,47.0,-2.0,True,2024-05-26,Decline Phase
+2025-09-04,50,APAGA EL CEL,FloyyMenor,72,184806,album,7,True,https://i.scdn.co/image/ab67616d0000b273ea86b8fe5ceb9e50e43a1ff9,2025-08-23,50.0,0.0,False,2025-08-10,Other / Unclassified
+2025-08-09,21,APAGA EL CEL,FloyyMenor & Lewis Somes,87,184806,single,1,True,https://i.scdn.co/image/ab67616d0000b273c44bb461e0efd6a5b88e2dec,2025-08-08,22.0,1.0,True,2025-05-26,Growth Phase
+2025-11-01,46,APT.,ROSÉ & Bruno Mars,96,169917,single,1,False,https://i.scdn.co/image/ab67616d0000b273f8c8297efc6022534f1357e1,2025-10-31,43.0,-3.0,True,2025-10-23,Decline Phase
+2024-09-29,40,AQYNE,Aitana,73,181426,album,15,False,https://i.scdn.co/image/ab67616d0000b2732f74dd3a7c4ec82b58479b56,2024-09-28,40.0,0.0,True,2024-09-27,Other / Unclassified
+2025-03-23,48,ASI ES LA VIDA,Enrique Iglesias & Maria Becerra,81,172095,single,1,False,https://i.scdn.co/image/ab67616d0000b2733d2a295bbc9935d3e4b5bfe5,2025-03-22,50.0,2.0,True,2024-11-22,Growth Phase
+2025-06-21,46,ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,69,161053,album,16,True,https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5,,,,False,2025-06-21,Other / Unclassified
+2025-08-24,23,AUNQUE LLEGUE OTRO (feat. Jay Wheeler),Myke Towers,0,197800,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Mature Phase
+2024-08-31,46,AYER Y HOY,Mora,69,317016,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-08-30,23.0,-23.0,True,2024-08-30,Decline Phase
+2024-07-09,50,Acróstico,Shakira,92,170785,single,1,False,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63,2024-07-08,49.0,-1.0,True,2024-05-18,Decline Phase
+2025-06-01,49,Akureyri,Aitana & Sebastian Yatra,76,194400,single,1,False,https://i.scdn.co/image/ab67616d0000b2733ae50e7b6e0f6e82dc211241,2025-05-30,45.0,-4.0,False,2025-04-28,Other / Unclassified
+2025-10-05,48,Alegría,Tiago PZK,74,165054,album,14,False,https://i.scdn.co/image/ab67616d0000b273981fb242b648850e0853881f,2025-10-04,9.0,-39.0,True,2025-09-28,Decline Phase
+2025-01-02,45,All I Want for Christmas Is You,Mariah Carey,100,241106,album,10,False,https://i.scdn.co/image/ab67616d0000b2734246e3158421f5abb75abc4f,2025-01-01,45.0,0.0,True,2024-12-03,Other / Unclassified
+2025-04-05,33,Alucin,Eugenio Esquivel & Grupo Marca Registrada & Sebastian Esquivel,87,197114,single,1,True,https://i.scdn.co/image/ab67616d0000b273086a84a764dc341262487967,2025-04-04,34.0,1.0,True,2025-01-13,Growth Phase
+2025-07-06,48,Amanece,Anuel AA & Haze,81,190004,single,1,False,https://i.scdn.co/image/ab67616d0000b2736e276f2d395bedd121a03685,2025-07-05,49.0,1.0,True,2024-05-25,Growth Phase
+2025-11-17,45,Amar De Nuevo,Rauw Alejandro,64,268042,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,,,,False,2025-11-17,Other / Unclassified
+2024-06-03,50,Andando,Morad,76,261713,album,19,True,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19,2024-06-02,44.0,-6.0,True,2024-05-18,Decline Phase
+2024-07-22,45,Antes,Rvfv & Edu García,78,153684,single,1,False,https://i.scdn.co/image/ab67616d0000b273bb37ea07bf9e4e37be3bd61c,2024-07-21,46.0,1.0,True,2024-05-18,Growth Phase
+2024-12-19,41,Antidepresivos,Saiko,76,145384,single,1,False,https://i.scdn.co/image/ab67616d0000b2739f3cb52cd35a86ac59470fd9,2024-12-18,40.0,-1.0,True,2024-08-06,Decline Phase
+2025-01-20,39,Arena y Sal,Omar Montes & Saiko & Tunvao,77,174415,single,1,False,https://i.scdn.co/image/ab67616d0000b273e78ae3c73af7c17be0c05cb2,2025-01-19,41.0,2.0,True,2024-05-21,Growth Phase
+2024-07-25,50,Arranca (feat. Omega),Becky G & Omega,86,166529,single,1,False,https://i.scdn.co/image/ab67616d0000b27361f698cb35bb6f6d96fd1612,2024-07-24,49.0,-1.0,True,2024-05-18,Decline Phase
+2025-06-18,49,Ayer,DELLAFUENTE,50,155700,album,10,False,https://i.scdn.co/image/ab67616d0000b27390d89a35e2528aa6757442e1,2025-06-16,37.0,-12.0,False,2025-06-16,Other / Unclassified
+2025-04-19,50,BABY HELLO,Rauw Alejandro,74,222461,album,14,True,https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda,2025-04-17,49.0,-1.0,False,2024-07-09,Other / Unclassified
+2024-07-08,2,BABY HELLO,Rauw Alejandro & Bizarrap,89,222461,single,1,True,https://i.scdn.co/image/ab67616d0000b2730ff08e0346b55268e735a4e9,2024-07-07,2.0,0.0,True,2024-06-25,Peak Phase
+2024-10-28,47,BABY NUEVA,Bad Bunny,90,240773,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-27,47.0,0.0,True,2024-10-14,Other / Unclassified
+2025-03-10,45,BAD BOY,Chris Jedi & Gaby Music & Dei V,77,235146,single,1,True,https://i.scdn.co/image/ab67616d0000b2734e3fa29ae719ae1a3c81af2e,2025-03-09,32.0,-13.0,True,2025-02-11,Decline Phase
+2025-11-23,36,BADGYAL,SAIKO,74,253962,album,16,True,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-11-22,35.0,-1.0,True,2025-04-28,Decline Phase
+2025-06-21,27,BANDIT,Don Toliver,69,147706,album,16,True,https://i.scdn.co/image/ab67616d0000b273c800e1a4a237cf8f085183c5,,,,False,2025-06-21,Mature Phase
+2024-10-18,39,BATICANO,Bad Bunny,83,256000,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-17,39.0,0.0,True,2024-10-14,Other / Unclassified
+2025-07-23,39,BBY BOO - REMIX,iZaak & Jhayco & Anuel AA,83,275862,single,3,True,https://i.scdn.co/image/ab67616d0000b2735f516e13e1b417769a0a7cdd,2025-07-22,39.0,0.0,True,2025-03-30,Other / Unclassified
+2025-05-06,49,"BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",Bhavi & Seven Kayne & Milo j,85,284308,single,1,True,https://i.scdn.co/image/ab67616d0000b27322efff8b62ad1ece2d69cba6,2025-05-05,46.0,-3.0,True,2025-04-24,Decline Phase
+2024-10-06,47,BESO,ROSALÍA & Rauw Alejandro,89,194543,single,3,False,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1,2024-10-05,46.0,-1.0,True,2024-05-18,Decline Phase
+2024-10-13,37,BESOS (with Kidd Keo & Neelo),SwaggGlock & Kidd Keo & Neelo,77,172852,single,1,True,https://i.scdn.co/image/ab67616d0000b27332c32a1f5729e8139f3a0f7a,2024-10-12,35.0,-2.0,True,2024-09-14,Decline Phase
+2025-06-13,49,BIRDS OF A FEATHER,Billie Eilish,92,210373,album,10,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62,2025-06-12,49.0,0.0,True,2025-06-12,Other / Unclassified
+2025-05-01,44,BOREAL,SAIKO,65,165210,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-04-30,38.0,-6.0,True,2025-04-28,Decline Phase
+2024-10-06,44,BUBALU,Feid,72,228253,album,15,False,https://i.scdn.co/image/ab67616d0000b273d7071c1defa5a6584cd57c16,2024-10-05,43.0,-1.0,True,2024-09-30,Decline Phase
+2024-09-29,41,BUBALU,Feid & Rema,77,228253,single,1,False,https://i.scdn.co/image/ab67616d0000b2733c70d10ed8c9ce76e4b0fd8f,2024-09-28,41.0,0.0,True,2024-09-24,Other / Unclassified
+2025-11-27,25,BUENAS NOCHES,Quevedo,66,238883,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,29.0,4.0,True,2025-11-24,New Entry
+2025-06-02,46,Bailando Bachata,Chayanne,78,170809,album,9,False,https://i.scdn.co/image/ab67616d0000b27372b43473e1225b5dd53edd0a,2025-06-01,45.0,-1.0,True,2025-05-13,Decline Phase
+2025-11-20,48,Baja Pa' Acá,Rauw Alejandro,72,200000,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-19,48.0,0.0,True,2025-11-17,Other / Unclassified
+2024-11-10,48,Bandidona,Saiko,74,160941,single,1,False,https://i.scdn.co/image/ab67616d0000b2730f77207f359d749d206baf39,2024-11-09,48.0,0.0,True,2024-10-29,Other / Unclassified
+2025-10-20,40,Barro,Duki,60,201052,single,1,False,https://i.scdn.co/image/ab67616d0000b273c43ff46b46af2ee509267b63,,,,False,2025-10-20,Other / Unclassified
+2025-06-23,47,Beautiful Things,Benson Boone,88,180304,album,15,False,https://i.scdn.co/image/ab67616d0000b273cc04ff3e70e146ba9abacf40,2025-06-22,47.0,0.0,True,2025-03-13,Other / Unclassified
+2025-01-26,45,Bendecido,Eladio Carrion,78,142736,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-01-25,34.0,-11.0,True,2025-01-21,Decline Phase
+2025-10-31,24,Besitos BB 2.0,El Perla & Omar Montes & SAIKO,67,233693,single,1,True,https://i.scdn.co/image/ab67616d0000b27323ec8c1a62e7fa37300d7492,2025-10-30,40.0,16.0,True,2025-10-16,Growth Phase
+2025-09-07,49,Beso Prohibido,Beny Jr,64,152866,album,14,False,https://i.scdn.co/image/ab67616d0000b2737c845b9582e9877332c7f248,,,,False,2025-09-07,Other / Unclassified
+2025-11-07,50,Brindis,Duki,70,180750,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-06,41.0,-9.0,True,2025-11-03,Decline Phase
+2025-03-12,48,Buenas,Quevedo & SAIKO,78,192954,single,1,False,https://i.scdn.co/image/ab67616d0000b27347dde0f7071eb50a15c74470,2025-03-11,48.0,0.0,True,2025-03-02,Other / Unclassified
+2025-02-28,40,Buenas,Quevedo & Saiko,80,192954,single,1,False,https://i.scdn.co/image/ab67616d0000b27347dde0f7071eb50a15c74470,2025-02-27,40.0,0.0,True,2024-09-24,Other / Unclassified
+2025-04-17,48,Buscando Money,TWENTY SIX & Tayson Kryss,83,150000,single,2,False,https://i.scdn.co/image/ab67616d0000b27304a5e9280739d24c9c127864,2025-04-16,49.0,1.0,True,2025-02-02,Growth Phase
+2025-11-09,49,Buscarte Lejos,Duki,72,194447,album,15,False,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-08,38.0,-11.0,True,2025-11-03,Decline Phase
+2025-08-24,47,CACHÉ,Myke Towers,0,196906,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Other / Unclassified
+2024-12-10,50,CALL ME MAYBE,Duki,65,222401,single,1,False,https://i.scdn.co/image/ab67616d0000b2737e73b2aae4ae0085a1f7d825,,,,False,2024-12-10,Other / Unclassified
+2025-11-23,38,CARITA TRISTE,Ana Mena & Emilia,75,175296,single,1,False,https://i.scdn.co/image/ab67616d0000b273ebd1f4fb61032559a12f494e,2025-11-22,38.0,0.0,True,2025-09-01,Other / Unclassified
+2024-11-25,47,CARTERA & TACOS,Myke Towers,0,129932,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,,,,False,2024-11-25,Other / Unclassified
+2025-11-27,17,CHAPIADORA.COM,Quevedo,68,197418,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,17.0,0.0,True,2025-11-24,New Entry
+2025-05-25,47,CHIHIRO,Billie Eilish,92,303440,album,10,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62,2025-05-24,48.0,1.0,True,2025-05-19,Growth Phase
+2024-06-14,48,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,True,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99,2024-06-13,41.0,-7.0,True,2024-05-18,Decline Phase
+2025-01-20,49,CHULA,JC Reyes,73,152842,single,1,False,https://i.scdn.co/image/ab67616d0000b2730fe0f5a379fbecfcb36ed935,2025-01-19,49.0,0.0,True,2024-12-28,Other / Unclassified
+2025-01-17,48,CLASSY 101,Feid,84,195586,album,10,True,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,2025-01-16,48.0,0.0,True,2024-12-02,Other / Unclassified
+2024-12-01,35,CLASSY 101,Feid & Young Miko,92,195986,single,1,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a,,,,False,2024-12-01,Other / Unclassified
+2024-11-26,49,COCO LOCO,Maluma,74,166734,album,25,False,https://i.scdn.co/image/ab67616d0000b273d688b951a19f48941682e026,2024-11-24,49.0,0.0,False,2024-07-01,Other / Unclassified
+2024-11-14,33,COLMILLO,Tainy,78,265999,album,20,True,https://i.scdn.co/image/ab67616d0000b273f885fb64a381318a1c9c14e4,2024-11-13,33.0,0.0,True,2024-10-19,Other / Unclassified
+2025-05-05,48,COMETA HALLEY,SAIKO,69,230549,album,16,True,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-04,41.0,-7.0,True,2025-04-28,Decline Phase
+2025-05-19,48,COMO SUENAN LAS ESTRELLAS,SAIKO,73,138677,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-18,42.0,-6.0,True,2025-04-28,Decline Phase
+2025-08-25,49,COMPETENCIA,Myke Towers,61,190826,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-08-24,19.0,-30.0,True,2025-08-24,Decline Phase
+2025-05-17,38,COMUNA 3,JC Reyes & The Rude Boyz,61,154128,single,1,False,https://i.scdn.co/image/ab67616d0000b27324f3de268945a3099a5534c1,2025-05-16,47.0,9.0,True,2025-05-16,Growth Phase
+2025-09-17,49,COMUNA 3,JC Reyes & The Rudeboyz,72,154128,single,1,False,https://i.scdn.co/image/ab67616d0000b27324f3de268945a3099a5534c1,2025-09-16,48.0,-1.0,True,2025-05-18,Decline Phase
+2025-03-24,50,CONTIGO (with Tiësto),KAROL G & Tiësto,90,192786,single,1,False,https://i.scdn.co/image/ab67616d0000b273c5426d9daa879064ccf12fb1,2025-03-23,44.0,-6.0,True,2025-02-17,Decline Phase
+2024-10-13,44,CORAZÓN VACÍO,Maria Becerra,87,160535,single,1,False,https://i.scdn.co/image/ab67616d0000b273a3cbe5aa0bcf10eb02a8c960,2024-10-12,45.0,1.0,True,2024-07-05,Growth Phase
+2025-01-15,49,CORLEONE,Saiko,69,192000,album,7,False,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e,2025-01-14,49.0,0.0,True,2024-12-24,Other / Unclassified
+2024-12-23,16,CORLEONE,Saiko & Yandel,70,192000,single,1,False,https://i.scdn.co/image/ab67616d0000b273b96418d73b734a8c6c95b02f,2024-12-22,16.0,0.0,True,2024-12-17,Mature Phase
+2025-04-27,44,COSAS QUE NO TE DIJE,SAIKO,81,224725,single,1,False,https://i.scdn.co/image/ab67616d0000b273fb045f7dda9773e266437bc6,2025-04-26,44.0,0.0,True,2025-03-02,Other / Unclassified
+2025-02-28,21,COSAS QUE NO TE DIJE,Saiko,84,224725,single,1,False,https://i.scdn.co/image/ab67616d0000b273fb045f7dda9773e266437bc6,2025-02-27,19.0,-2.0,True,2024-08-16,Decline Phase
+2024-11-29,48,COSMETICOS,Myke Towers,70,141862,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,2024-11-25,33.0,-15.0,False,2024-11-25,Other / Unclassified
+2025-08-23,45,CRUSH,Sky Rompiendo & Dei V,75,233333,single,1,False,https://i.scdn.co/image/ab67616d0000b27319252b8a48091440da41ca35,2025-08-22,45.0,0.0,True,2025-04-07,Other / Unclassified
+2024-10-21,48,CYBERTRUCK,Bad Bunny,87,191959,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-20,44.0,-4.0,True,2024-10-14,Decline Phase
+2024-09-19,47,Cafe Malibú,Sech & Mora & Saiko,80,260307,single,1,True,https://i.scdn.co/image/ab67616d0000b2734ab9adc45582915f984d748a,2024-09-18,36.0,-11.0,True,2024-07-23,Decline Phase
+2024-05-28,48,Cangrinaje,Cruz Cafuné,56,211765,album,23,True,https://i.scdn.co/image/ab67616d0000b2734102f96ba4b1df4dfe8bc35f,,,,False,2024-05-28,Other / Unclassified
+2025-08-14,50,Capri Sun,B10 & Kilvertz,70,168727,single,1,False,https://i.scdn.co/image/ab67616d0000b273de1ec0315e98412b0a370a17,2025-08-12,43.0,-7.0,False,2025-07-31,Other / Unclassified
+2025-05-29,50,Casanova,Soolking & Lola Indigo & Rvfv,74,243806,single,1,False,https://i.scdn.co/image/ab67616d0000b2732adf0524e6e63e64f4691695,2025-05-28,47.0,-3.0,True,2024-12-10,Decline Phase
+2025-03-10,41,Caserio,Yandel & SAIKO,59,189524,single,1,True,https://i.scdn.co/image/ab67616d0000b273ced2daacfcdef02b461971b3,,,,False,2025-03-10,Other / Unclassified
+2025-11-27,46,Celine (with Kidd Keo),Ghost Killer Track & Kidd Keo,73,176017,single,1,False,https://i.scdn.co/image/ab67616d0000b27389222494c11e51331d9744c1,2025-11-26,44.0,-2.0,True,2025-10-03,Decline Phase
+2024-05-20,48,Cha Cha Cha,Käärijä,88,175161,single,1,False,https://i.scdn.co/image/ab67616d0000b273e9973a2290bd5d88c6aad387,2024-05-19,43.0,-5.0,True,2024-05-18,Decline Phase
+2024-10-13,47,Chulo pt.2,Bad Gyal & Tokischa & Young Miko,91,219333,single,1,True,https://i.scdn.co/image/ab67616d0000b2730d45a19d3b38fb1a0be40e3a,2024-10-12,47.0,0.0,True,2024-06-24,Other / Unclassified
+2025-11-03,42,Cine 🚬,Duki,61,142957,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,,,,False,2025-11-03,Other / Unclassified
+2024-11-30,35,Classy 101,Feid & Young Miko,92,195986,single,1,True,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a,2024-11-29,37.0,2.0,True,2024-05-18,Growth Phase
+2025-01-04,50,Clavaito,Chanel & Abraham Mateo,75,162740,single,1,False,https://i.scdn.co/image/ab67616d0000b273441d55b86b1e5a3d4c3da232,2025-01-03,45.0,-5.0,True,2024-05-18,Decline Phase
+2024-09-29,49,Coco Chanel,Eladio Carrion,87,208125,album,18,True,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0,2024-09-28,48.0,-1.0,True,2024-05-18,Decline Phase
+2025-03-30,48,Cohete,Shakira,75,172503,album,17,False,https://i.scdn.co/image/ab67616d0000b2737501431ca5326c536f90610c,2025-03-29,46.0,-2.0,True,2025-03-24,Decline Phase
+2025-11-02,46,Columbia,Quevedo,81,186000,single,1,False,https://i.scdn.co/image/ab67616d0000b2730483b3a4d787ce510915fe3b,2025-11-01,50.0,4.0,True,2024-07-08,Growth Phase
+2025-11-17,29,Committed,Rauw Alejandro,66,159344,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,,,,False,2025-11-17,Mature Phase
+2025-02-21,50,Como Camarón,Estopa,74,202026,album,12,False,https://i.scdn.co/image/ab67616d0000b2731a311570340a4f6530da158b,2025-02-20,50.0,0.0,True,2024-11-29,Other / Unclassified
+2025-11-14,47,Conexión,Cano,58,188160,album,10,False,https://i.scdn.co/image/ab67616d0000b27386671ccf3e90eee58a717e8b,2025-11-13,48.0,1.0,True,2025-10-27,Growth Phase
+2025-10-26,40,Conexión,Cano & JC Reyes,63,188160,single,1,False,https://i.scdn.co/image/ab67616d0000b2733a52a92fc5a4b4a269d82fd4,2025-10-25,46.0,6.0,True,2025-10-25,Growth Phase
+2025-11-10,43,Constelación,Duki,70,200631,album,15,False,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-09,32.0,-11.0,True,2025-11-03,Decline Phase
+2025-11-02,50,Constelación,Duki & Lia Kali,62,200631,single,1,False,https://i.scdn.co/image/ab67616d0000b2735648b39bd43bb2c7211ea763,2025-11-01,29.0,-21.0,True,2025-11-01,Decline Phase
+2024-07-28,50,Copa Vacía,Shakira & Manuel Turizo,88,173547,single,1,False,https://i.scdn.co/image/ab67616d0000b273caecc8c0bcfd16173dfeeb53,2024-07-27,50.0,0.0,True,2024-07-02,Other / Unclassified
+2024-09-13,44,Corazón Roto - Remix,Brray & Jhayco & Ryan Castro,87,275040,single,1,True,https://i.scdn.co/image/ab67616d0000b273e084c4a9056d5672b52e6a32,2024-09-12,33.0,-11.0,True,2024-08-10,Decline Phase
+2025-02-04,50,Corazón Roto pt. 3,Brray & Anuel AA & Chencho Corleone,84,348400,single,1,True,https://i.scdn.co/image/ab67616d0000b2732cfe06902d86d09df823726e,2025-02-03,50.0,0.0,True,2024-09-13,Other / Unclassified
+2025-11-18,44,Cosa Nuestra,Rauw Alejandro,70,260454,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-17,16.0,-28.0,True,2025-11-17,Decline Phase
+2025-11-27,37,Cosas Pendientes,Maluma,73,184462,single,1,False,https://i.scdn.co/image/ab67616d0000b2733e6665989eeb44e512a29571,2025-11-24,48.0,11.0,False,2025-11-24,New Entry
+2025-06-01,39,Cruel Summer,Taylor Swift,94,178426,album,18,False,https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647,,,,False,2025-06-01,Other / Unclassified
+2025-10-28,49,Cuando Te Vi | CROSSOVER #5,Big One & Maria Becerra & Trueno,80,218400,single,1,True,https://i.scdn.co/image/ab67616d0000b2737477ce32165afe45083b67dd,2025-10-27,47.0,-2.0,True,2025-07-05,Decline Phase
+2025-06-05,44,Cupido,Engel Montaz & Kuv507 & Latinnites Music,75,215000,single,1,False,https://i.scdn.co/image/ab67616d0000b273fef0c769fee6b249e51af85e,2025-05-31,41.0,-3.0,False,2025-04-18,Other / Unclassified
+2024-09-12,49,Cupido,TINI,81,174369,album,14,False,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d,2024-08-29,50.0,1.0,False,2024-05-18,Other / Unclassified
+2024-09-02,48,CÓRCEGA,Mora,74,189001,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,48.0,0.0,True,2024-08-30,Other / Unclassified
+2025-03-02,45,Cómo Te Atreves,Morat,78,240560,album,12,False,https://i.scdn.co/image/ab67616d0000b2730c929d54495f38b910f48643,,,,False,2025-03-02,Other / Unclassified
+2025-08-16,45,Cúrame,Rauw Alejandro,84,164705,album,14,True,https://i.scdn.co/image/ab67616d0000b273d9525f27b0a9e25b1fa21230,2025-08-15,45.0,0.0,True,2025-08-01,Other / Unclassified
+2024-10-22,50,DE PLASTILINA,Lola Indigo & Pepe y Vizio,32,209533,single,1,False,https://i.scdn.co/image/ab67616d0000b273511a8a710cb6b932f47f5705,2024-10-21,40.0,-10.0,True,2024-10-21,Decline Phase
+2025-11-27,10,DEGENERE 👑 (feat. benny blanco),Myke Towers,84,130880,album,30,True,https://i.scdn.co/image/ab67616d0000b273211e6d4c3a41019e9309686d,2025-11-26,9.0,-1.0,True,2025-10-20,Peak Phase
+2024-11-09,12,DEMO #5: nostalgIA - Spanglish Version,FlowGPT,45,220405,single,1,True,https://i.scdn.co/image/ab67616d0000b2737f0733bdb8accc18671c3264,2024-11-08,20.0,8.0,True,2024-11-08,Growth Phase
+2025-11-23,35,DEPORTIVO,Blessd & Anuel AA,73,218701,single,1,True,https://i.scdn.co/image/ab67616d0000b2739fee5cdf2743b01c5df33122,2025-11-22,39.0,4.0,True,2025-11-16,Growth Phase
+2025-05-24,30,DESATAAA,Ovy On The Drums & Myke Towers & SAIKO,76,197383,single,1,True,https://i.scdn.co/image/ab67616d0000b273de8b2296506e58ad6d827c9a,2025-05-23,27.0,-3.0,True,2025-03-17,Decline Phase
+2025-07-09,50,DESATAAA,Ovy On The Drums & Myke Towers & Saiko,73,197383,single,1,True,https://i.scdn.co/image/ab67616d0000b273de8b2296506e58ad6d827c9a,2025-07-08,50.0,0.0,True,2025-04-26,Other / Unclassified
+2025-01-02,49,DESPECHÁ,ROSALÍA,78,156787,album,24,True,https://i.scdn.co/image/ab67616d0000b273efc0ef9dd996312ebaf0bf52,2025-01-01,49.0,0.0,True,2024-05-22,Other / Unclassified
+2024-12-02,39,DESQUITE,Feid,0,133546,album,10,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,,,,False,2024-12-02,Other / Unclassified
+2025-11-20,49,DIABLA,Los Diozes,70,217945,album,8,True,https://i.scdn.co/image/ab67616d0000b27385efcbac3d15c5112b0586cd,2025-11-19,40.0,-9.0,True,2025-10-27,Decline Phase
+2025-09-04,49,DIABLITA (feat. YOVNGCHIMI),Myke Towers,70,185960,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-09-03,42.0,-7.0,True,2025-08-24,Decline Phase
+2024-09-02,45,DIAMONDS,Mora,74,193367,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,45.0,0.0,True,2024-08-30,Other / Unclassified
+2025-10-14,49,DILUVIO,Rauw Alejandro,81,197052,album,14,True,https://i.scdn.co/image/ab67616d0000b273f79b1ab5cd74db6a2d7c1fda,2025-04-27,43.0,-6.0,False,2024-10-21,Other / Unclassified
+2025-08-24,40,DINERO y FAMA (feat. Omar Montes),Myke Towers,0,215946,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Other / Unclassified
+2025-02-17,50,DONDE SE APRENDE A QUERER?,Mora,83,144427,album,15,False,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2025-02-16,49.0,-1.0,True,2024-08-30,Decline Phase
+2024-06-22,50,DUBAI,Trueno & Beny Jr,77,146000,single,1,False,https://i.scdn.co/image/ab67616d0000b27316417dc4958f0848533d2baa,2024-06-21,48.0,-2.0,True,2024-06-15,Decline Phase
+2025-11-27,13,DURO,Quevedo,67,162204,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,12.0,-1.0,True,2025-11-02,Decline Phase
+2024-09-29,48,Dararí,Aitana,70,170346,album,15,False,https://i.scdn.co/image/ab67616d0000b2732f74dd3a7c4ec82b58479b56,2024-09-28,43.0,-5.0,True,2024-09-24,Decline Phase
+2025-11-23,43,Después De La 1,Cris Mj & FloyyMenor,86,177600,single,2,True,https://i.scdn.co/image/ab67616d0000b2739b4a2665bec0fc42d55a1215,2025-11-22,49.0,6.0,True,2025-09-19,Growth Phase
+2025-04-28,39,Detrás del DJ,Rels B,66,119354,album,13,True,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,,,,False,2025-04-28,Other / Unclassified
+2025-08-19,48,Diabólica,Cris Mj,77,192000,album,17,True,https://i.scdn.co/image/ab67616d0000b2735a816f583172d45eb07ab8dc,2025-08-18,48.0,0.0,True,2025-03-13,Other / Unclassified
+2024-10-23,32,Dicelo,Lianet Rivero & Lia & Gatillo,66,153563,single,1,False,https://i.scdn.co/image/ab67616d0000b2736ad8d7ae030fca201a29eced,2024-10-22,28.0,-4.0,True,2024-10-20,Decline Phase
+2025-11-23,37,Die With A Smile,Lady Gaga & Bruno Mars,100,251667,single,1,False,https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45,2025-11-22,37.0,0.0,True,2025-08-31,Other / Unclassified
+2024-05-28,43,Dios #1,Cruz Cafuné,56,200125,album,23,True,https://i.scdn.co/image/ab67616d0000b2734102f96ba4b1df4dfe8bc35f,,,,False,2024-05-28,Other / Unclassified
+2025-08-23,46,Doblexxó,J Balvin,74,176720,album,15,True,https://i.scdn.co/image/ab67616d0000b2732e8f6d6e91471ec739d963f9,2025-08-22,46.0,0.0,True,2025-08-10,Other / Unclassified
+2025-09-20,39,Duro De Verdad pt.2,Los Sufridos,55,204303,single,1,False,https://i.scdn.co/image/ab67616d0000b2733023c6b0d95bc8682b21d388,,,,False,2025-09-20,Other / Unclassified
+2025-11-27,27,Duro De Verdad pt.2,Los Sufridos & Bad Gyal,76,204303,single,1,False,https://i.scdn.co/image/ab67616d0000b2733023c6b0d95bc8682b21d388,2025-11-26,24.0,-3.0,True,2025-09-21,Decline Phase
+2025-11-23,47,Déjame Entrar,Rauw Alejandro,75,254705,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-22,45.0,-2.0,True,2025-07-25,Decline Phase
+2024-09-02,26,EL CHACAL,Mora,76,197787,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,26.0,0.0,True,2024-08-30,Mature Phase
+2025-01-04,49,EL CONDENAO,Lola Indigo,64,144829,album,7,False,https://i.scdn.co/image/ab67616d0000b273e5d4842267050704b1c82928,2024-12-31,46.0,-3.0,False,2024-12-17,Other / Unclassified
+2025-11-27,29,EL ESTRIBILLO,Quevedo,67,161444,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,27.0,-2.0,True,2025-11-24,New Entry
+2025-09-12,50,EL PANTALON - RUMBAS,Omar Montes,68,193066,album,11,False,https://i.scdn.co/image/ab67616d0000b273b97f603621a230afd6e578df,2025-09-11,47.0,-3.0,True,2025-06-02,Decline Phase
+2025-01-10,50,EL TONTO,Lola Indigo,75,187986,album,11,False,https://i.scdn.co/image/ab67616d0000b273daab364ac14d96679b5639aa,2025-01-09,48.0,-2.0,True,2024-05-18,Decline Phase
+2025-04-06,47,EMPELOTICA,Lenny Tavárez & Feid,83,190322,single,1,True,https://i.scdn.co/image/ab67616d0000b2732733f74a1fce417cf2c3c307,2025-04-05,46.0,-1.0,True,2025-02-25,Decline Phase
+2024-11-25,46,EMRATA,Myke Towers,0,225507,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,,,,False,2024-11-25,Other / Unclassified
+2025-10-31,44,EROTICAAAAAAA,Gonzy,62,169666,album,18,True,https://i.scdn.co/image/ab67616d0000b2739b6b17f9c7fe03849d6d8a79,2025-10-30,46.0,2.0,True,2025-10-13,Growth Phase
+2025-10-23,50,ESKELETO,SAIKO,71,279893,album,16,True,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-10-22,47.0,-3.0,True,2025-04-28,Decline Phase
+2025-03-09,50,El Cielo,Sky Rompiendo & Feid & Myke Towers,84,191320,single,1,True,https://i.scdn.co/image/ab67616d0000b27306eccb4893fa58ae311c45ea,2025-03-06,50.0,0.0,False,2024-06-04,Other / Unclassified
+2025-09-23,50,El Conjuntito,El Bobe & Omar Montes,73,158711,single,1,False,https://i.scdn.co/image/ab67616d0000b273cd22e1599ed8847e9463dfc2,2025-09-21,49.0,-1.0,False,2025-03-24,Other / Unclassified
+2025-10-06,36,El Destello,Juanjo Bona & Martin Urrutia,57,160684,single,1,False,https://i.scdn.co/image/ab67616d0000b273a2dc25caa7cee5c5494bca11,,,,False,2025-10-06,Other / Unclassified
+2025-11-23,48,El Fin del Mundo,La La Love You,68,188093,album,18,False,https://i.scdn.co/image/ab67616d0000b273113e94b862587c66b88efe31,2025-11-22,48.0,0.0,True,2025-06-03,Other / Unclassified
+2024-10-03,48,El Jefe,Shakira & Fuerza Regida,85,170297,single,1,True,https://i.scdn.co/image/ab67616d0000b2731e45888bd125c016dbe319aa,2024-10-02,48.0,0.0,True,2024-09-24,Other / Unclassified
+2025-02-17,39,El Malo,Eladio Carrion,81,209655,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-02-16,43.0,4.0,True,2025-01-21,Growth Phase
+2025-02-28,49,El Mambo,Kiko Rivera,77,129845,single,1,False,https://i.scdn.co/image/ab67616d0000b2739550e7d371ec97215fee49f3,2025-02-27,44.0,-5.0,True,2024-10-04,Decline Phase
+2025-11-18,46,El Merengue,Marshmello,80,189668,album,11,False,https://i.scdn.co/image/ab67616d0000b2736a84be92318cebb5ac7fbc47,2025-11-16,47.0,1.0,False,2024-11-04,Other / Unclassified
+2024-11-03,21,El Merengue,Marshmello & Manuel Turizo,89,189668,single,1,False,https://i.scdn.co/image/ab67616d0000b273f404676577626a87d92cf33f,2024-11-02,20.0,-1.0,True,2024-05-18,Decline Phase
+2025-08-27,49,El Patio,Pepe y Vizio & Delaossa & KIDDO,71,232645,single,1,False,https://i.scdn.co/image/ab67616d0000b273531164360cf8cd7c95b6df79,2025-08-26,49.0,0.0,True,2025-02-22,Other / Unclassified
+2024-08-09,48,Ella Baila Sola,Eslabon Armado,90,165671,album,16,False,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f,2024-08-08,44.0,-4.0,True,2024-05-18,Decline Phase
+2024-07-01,45,En To Lao,Haze & Jhayco,79,195033,single,1,True,https://i.scdn.co/image/ab67616d0000b273e60985ccfc4bd7e3df9f9bd2,2024-06-30,50.0,5.0,True,2024-06-15,Growth Phase
+2024-12-01,46,Enamórate,Nicki Nicole & Bad Gyal,76,147785,single,1,False,https://i.scdn.co/image/ab67616d0000b2730f4acd65c346fedaeb252f5a,2024-11-30,46.0,0.0,True,2024-11-16,Other / Unclassified
+2025-07-04,43,Es un Secreto,Plan B,84,192120,album,15,False,https://i.scdn.co/image/ab67616d0000b2732bf273f977582e8f890192fe,2025-07-03,42.0,-1.0,True,2025-06-22,Decline Phase
+2025-01-25,47,Escriurem,Chiara Oliver & Martin Urrutia,56,189146,single,1,False,https://i.scdn.co/image/ab67616d0000b2731bd28c4d3f70ea980e072e41,,,,False,2025-01-25,Other / Unclassified
+2025-04-27,50,Espectacular,Sky Rompiendo & Rauw Alejandro,76,185739,single,1,False,https://i.scdn.co/image/ab67616d0000b2730acf414348b3ca9a6f538690,2025-04-25,49.0,-1.0,False,2025-04-25,Other / Unclassified
+2025-07-03,43,Espresso,Sabrina Carpenter,99,175459,single,1,True,https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5,2025-07-02,43.0,0.0,True,2025-06-09,Other / Unclassified
+2025-11-21,47,Espresso Martini,Rauw Alejandro,74,191219,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-20,37.0,-10.0,True,2025-11-17,Decline Phase
+2025-05-18,46,Europapa,Joost,86,160218,single,2,False,https://i.scdn.co/image/ab67616d0000b27364593914322faaf17150d522,2025-05-17,46.0,0.0,True,2025-05-14,Other / Unclassified
+2024-11-24,50,Eva Longoria,Ozuna,77,199850,album,7,False,https://i.scdn.co/image/ab67616d0000b273791d76abc6a152ac90c9b140,2024-11-23,50.0,0.0,True,2024-08-12,Other / Unclassified
+2025-01-31,49,Extasisssssss,Saiko,75,116666,album,7,False,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e,2025-01-30,44.0,-5.0,True,2024-12-20,Decline Phase
+2024-09-04,50,FANTASÍAS,Mora,78,191847,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-03,48.0,-2.0,True,2024-08-30,Decline Phase
+2025-07-30,50,FARDOS,JC Reyes & De La Ghetto,74,183335,single,1,False,https://i.scdn.co/image/ab67616d0000b27344d0e103124e96e727eb54e7,2025-07-29,50.0,0.0,True,2025-02-18,Other / Unclassified
+2024-11-06,50,FERXXO 151,Feid,73,195386,album,16,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b,2024-11-05,50.0,0.0,True,2024-09-30,Other / Unclassified
+2024-09-29,38,FERXXO 151,Feid & ICON,83,195653,single,1,False,https://i.scdn.co/image/ab67616d0000b2732d2f3a1bd3796d72b0f90a6d,2024-09-28,39.0,1.0,True,2024-08-26,Growth Phase
+2024-10-13,50,FERXXO 30,Feid,76,173760,album,16,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b,2024-10-07,32.0,-18.0,False,2024-10-07,Other / Unclassified
+2024-10-01,43,FERXXO EDITION,Feid,0,161746,album,15,False,https://i.scdn.co/image/ab67616d0000b273d7071c1defa5a6584cd57c16,2024-09-30,43.0,0.0,True,2024-09-30,Other / Unclassified
+2024-11-18,49,FINA,Bad Bunny,92,216327,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-11-17,45.0,-4.0,True,2024-10-14,Decline Phase
+2025-04-29,45,FINALES DE AGOSTO,SAIKO,60,177034,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-04-28,40.0,-5.0,True,2025-04-28,Decline Phase
+2025-03-31,32,"FLOWHOT (feat. Arcángel, De La Ghetto, Randy)",The Academy: Segunda Misión & Sech & Dalex,53,233099,album,9,True,https://i.scdn.co/image/ab67616d0000b273381877b5a52a8907785eda84,,,,False,2025-03-31,Other / Unclassified
+2025-11-26,49,FRIKI,Gonzy,66,189066,album,18,True,https://i.scdn.co/image/ab67616d0000b2739b6b17f9c7fe03849d6d8a79,2025-11-24,49.0,0.0,False,2025-05-10,Other / Unclassified
+2025-08-24,36,FRÍO,Myke Towers,0,160373,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Other / Unclassified
+2025-02-25,50,Falsos Recuerdos,Abraham Mateo & Omar Montes,75,191414,single,1,False,https://i.scdn.co/image/ab67616d0000b273f6349b2d4e7c491f0f78eac8,2025-02-24,49.0,-1.0,True,2025-02-01,Decline Phase
+2025-04-18,45,Fecha,Feid & Yandel,76,188600,single,5,True,https://i.scdn.co/image/ab67616d0000b2736d9e4531af31264051a5fbe9,2025-04-17,39.0,-6.0,True,2025-04-14,Decline Phase
+2025-04-20,46,Fecha - Intro Extended,Renzo Pianciola,15,189802,single,1,False,https://i.scdn.co/image/ab67616d0000b27318898cdf4665cf437d06ae5d,2025-04-19,47.0,1.0,True,2025-04-19,Growth Phase
+2024-12-27,14,Feliz Navidad,José Feliciano,88,182066,album,15,False,https://i.scdn.co/image/ab67616d0000b273c8ac560f803bba4902f8bbc5,2024-12-26,14.0,0.0,True,2024-12-25,Mature Phase
+2024-12-20,46,Feliz Navidad,Saiko,58,218282,single,3,False,https://i.scdn.co/image/ab67616d0000b273347c0a64a187cec94f8a0b3a,2024-12-19,36.0,-10.0,True,2024-12-19,Decline Phase
+2024-12-02,44,Figo,DELLAFUENTE & Morad,0,184565,single,6,False,https://i.scdn.co/image/ab67616d0000b2732aa2e311ae4c6d8bf919662e,,,,False,2024-12-02,Other / Unclassified
+2024-06-20,46,Flow Violento - Remix,YoSoyPlex & Ruven,76,166533,single,1,True,https://i.scdn.co/image/ab67616d0000b273e7750d29442232dce6e71d17,2024-06-19,49.0,3.0,True,2024-05-30,Growth Phase
+2024-06-06,50,Flowers,Miley Cyrus,91,200600,album,13,False,https://i.scdn.co/image/ab67616d0000b27358039b5147731b6e52202e46,2024-06-03,47.0,-3.0,False,2024-05-18,Other / Unclassified
+2025-04-30,46,Fortnight (feat. Post Malone),Taylor Swift,94,228965,album,16,False,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,2025-04-28,48.0,2.0,False,2025-04-21,Other / Unclassified
+2025-06-16,46,Fosforito,DELLAFUENTE,29,178782,album,10,False,https://i.scdn.co/image/ab67616d0000b27390d89a35e2528aa6757442e1,,,,False,2025-06-16,Other / Unclassified
+2024-11-11,50,Fruto,Bizarrap & Milo j,91,132294,single,5,False,https://i.scdn.co/image/ab67616d0000b27344fa31a89a1e549f74908a81,2024-11-10,39.0,-11.0,True,2024-10-07,Decline Phase
+2025-01-21,38,"Fé, Cojones y Paciencia",Eladio Carrion,66,190243,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Other / Unclassified
+2025-11-27,39,G-WA,ZHEUS,63,116107,single,1,True,https://i.scdn.co/image/ab67616d0000b273832488cdef4672b1a55d34e6,2025-11-25,42.0,3.0,False,2025-11-21,New Entry
+2024-11-01,46,GANGSTER (PQFNEDG),Ovy On The Drums & Quevedo & Yandel,78,215470,single,1,True,https://i.scdn.co/image/ab67616d0000b2731ec86397013abccb760a99a0,2024-10-31,45.0,-1.0,True,2024-10-21,Decline Phase
+2024-10-01,25,GANGSTERS Y PISTOLAS,Feid,0,170693,album,15,False,https://i.scdn.co/image/ab67616d0000b273d7071c1defa5a6584cd57c16,2024-09-30,25.0,0.0,True,2024-09-30,Mature Phase
+2024-11-24,43,GATITA GANGSTER,KAROL G,80,170920,album,9,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03,2024-11-23,43.0,0.0,True,2024-09-13,Other / Unclassified
+2025-07-03,40,GATITAS SANDUNGUERAS VOL.1,Alvaro Diaz,83,131853,album,20,False,https://i.scdn.co/image/ab67616d0000b273af1e2e143561cf4df9941f5b,2025-07-02,40.0,0.0,True,2025-05-19,Other / Unclassified
+2024-10-20,47,GRACIAS POR NADA,Bad Bunny,86,177450,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-19,45.0,-2.0,True,2024-10-14,Decline Phase
+2025-11-27,1,GRAN VÍA,Quevedo,72,213528,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,1.0,0.0,True,2025-11-24,New Entry
+2025-10-14,50,Gata Only,FloyyMenor,79,222000,album,7,True,https://i.scdn.co/image/ab67616d0000b273200e2b6526846c59789c92e6,2025-10-09,50.0,0.0,False,2025-08-10,Other / Unclassified
+2025-08-09,15,Gata Only,FloyyMenor & Cris Mj,96,222000,single,1,True,https://i.scdn.co/image/ab67616d0000b273c4583f3ad76630879a75450a,2025-08-08,15.0,0.0,True,2025-02-24,Mature Phase
+2025-05-10,5,Gata Only (Mashup),Dj Agus Lima,48,215400,album,9,False,https://i.scdn.co/image/ab67616d0000b273068b0fa042dbfc8a9cbdfccd,2025-05-09,5.0,0.0,True,2025-05-09,Peak Phase
+2025-06-17,47,Gitana (feat. Bryartz),Pablo Chill-E,77,221714,album,8,True,https://i.scdn.co/image/ab67616d0000b273f3bfdec2487ed5b052dc0716,2025-06-15,46.0,-1.0,False,2025-05-03,Other / Unclassified
+2025-11-23,46,Goteras,Omar Montes & JC Reyes,72,216450,single,1,False,https://i.scdn.co/image/ab67616d0000b2739ef9ae337b0b2591e66d1194,2025-11-22,41.0,-5.0,True,2025-06-30,Decline Phase
+2025-06-01,21,Gran Día,Mau y Ricky & Guaynaa,72,193840,single,1,False,https://i.scdn.co/image/ab67616d0000b273b50605e126a068aa483a9e34,2025-05-31,17.0,-4.0,True,2025-05-16,Decline Phase
+2025-07-20,47,Guay,Ozuna & Bad Gyal,77,210788,single,1,False,https://i.scdn.co/image/ab67616d0000b273912bf764129e9c4b807f5790,2025-07-19,46.0,-1.0,True,2025-04-21,Decline Phase
+2025-10-13,47,HABLAME CLARO,Yandel,45,154969,album,19,True,https://i.scdn.co/image/ab67616d0000b273c0f16bc6a44c70a21fde984f,,,,False,2025-10-13,Other / Unclassified
+2025-10-12,49,HABLAME CLARO,Yandel & Feid,83,154969,single,1,True,https://i.scdn.co/image/ab67616d0000b273aac05e76abbf5a43d5705766,2025-10-11,42.0,-7.0,True,2025-10-02,Decline Phase
+2025-11-27,8,HALO,Quevedo,69,181261,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,7.0,-1.0,True,2025-11-24,New Entry
+2025-10-29,47,HAY LUPITA,Lomiiel,80,105836,single,1,False,https://i.scdn.co/image/ab67616d0000b273bdd9200ece04b83fe196978e,2025-10-28,46.0,-1.0,True,2025-07-12,Decline Phase
+2025-05-02,44,HEY BB,SAIKO,65,163701,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-01,35.0,-9.0,True,2025-04-28,Decline Phase
+2024-12-01,49,HIBIKI,Bad Bunny,89,208000,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-11-30,49.0,0.0,True,2024-10-14,Other / Unclassified
+2025-10-01,8,Hablame Claro,Yandel & Feid,84,154969,single,1,True,https://i.scdn.co/image/ab67616d0000b273aac05e76abbf5a43d5705766,2025-09-30,8.0,0.0,True,2025-09-16,Peak Phase
+2025-06-03,43,Hala Madrid ...y nada más,Real Madrid,60,177000,single,1,False,https://i.scdn.co/image/ab67616d0000b2739be379ceb7ff0394370cba59,,,,False,2025-06-03,Other / Unclassified
+2025-11-03,35,Hardaway,Duki,62,216432,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,,,,False,2025-11-03,Other / Unclassified
+2025-06-08,34,Hasta Olvidarte,Mau y Ricky,71,188862,album,15,False,https://i.scdn.co/image/ab67616d0000b2734843573f003d24528fdbd509,2025-06-07,33.0,-1.0,True,2025-06-03,Decline Phase
+2025-07-10,32,Hay Lupita,Megan Koffe,64,108855,single,1,True,https://i.scdn.co/image/ab67616d0000b2730130db7ff5e5d7ed022e8380,2025-07-09,30.0,-2.0,True,2025-06-28,Decline Phase
+2025-09-22,29,Headshot,Anuel AA,61,409259,single,1,True,https://i.scdn.co/image/ab67616d0000b27357d56b10d3049d0894e33b23,,,,False,2025-09-22,Mature Phase
+2025-09-27,49,Heavy Is the Crown,Linkin Park,78,167012,single,2,False,https://i.scdn.co/image/ab67616d0000b2735e2801d58ceb23a9d19308b7,,,,False,2025-09-27,Other / Unclassified
+2025-05-04,49,Heavyweight,Eladio Carrion,62,164776,single,5,True,https://i.scdn.co/image/ab67616d0000b273646b5a7a32046d0173a76a6c,,,,False,2025-05-04,Other / Unclassified
+2025-06-09,50,Hermosa Casualidad,Sen Senra & Aitana,61,205779,single,1,False,https://i.scdn.co/image/ab67616d0000b273e8d45c18ec4f2393052510b6,2025-06-08,42.0,-8.0,True,2025-06-02,Decline Phase
+2025-04-13,48,Hey Lil Mama,Eladio Carrion,81,216338,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-04-12,48.0,0.0,True,2025-01-21,Other / Unclassified
+2024-09-12,50,Hey Mor,Ozuna,88,196600,album,18,False,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45,2024-09-11,49.0,-1.0,True,2024-05-18,Decline Phase
+2025-02-24,50,Historias Por Contar,Operación Triunfo 2023,57,192042,single,1,False,https://i.scdn.co/image/ab67616d0000b273cf697de232457f64dfdf4b58,2025-02-23,39.0,-11.0,True,2025-02-22,Decline Phase
+2025-03-12,45,Holanda,Jhayco,84,231693,single,1,True,https://i.scdn.co/image/ab67616d0000b273cd2ceb6adaa32ecc83cec5c3,2025-03-11,45.0,0.0,True,2024-08-04,Other / Unclassified
+2024-12-27,45,Holly Jolly Christmas,Michael Bublé,83,119786,album,16,False,https://i.scdn.co/image/ab67616d0000b27395517befb15ad5d63af701ab,2024-12-26,45.0,0.0,True,2024-12-25,Other / Unclassified
+2024-11-17,50,Houdini,Dua Lipa,89,185917,single,1,False,https://i.scdn.co/image/ab67616d0000b273001d5706fddc72561f6488af,2024-11-16,47.0,-3.0,True,2024-11-11,Decline Phase
+2025-10-04,14,Hoy,Valentino Merlo & The La Planta,84,198495,single,1,False,https://i.scdn.co/image/ab67616d0000b27399978dc39516c09d14409e45,2025-10-03,13.0,-1.0,True,2025-09-29,Decline Phase
+2025-04-23,50,I Can Do It With a Broken Heart,Taylor Swift,82,218004,album,16,True,https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33,,,,False,2025-04-23,Other / Unclassified
+2025-11-12,1,IA,Clarent,78,171428,single,1,True,https://i.scdn.co/image/ab67616d0000b273f50d69a3cd5fde504ce51ce9,2025-11-11,1.0,0.0,True,2025-10-20,Peak Phase
+2025-11-27,9,IA,Clarent & Mora,80,240000,single,1,True,https://i.scdn.co/image/ab67616d0000b27385bd77f649d192161cd8bcd7,2025-11-26,10.0,1.0,True,2025-11-13,Peak Phase
+2025-11-27,4,IGUALES,Quevedo,71,183316,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,4.0,0.0,True,2025-11-24,New Entry
+2025-11-17,38,IL Capo,Rauw Alejandro,65,249599,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,,,,False,2025-11-17,Other / Unclassified
+2025-11-27,32,Imagínate,Danny Ocean & Kapo,78,170365,single,1,True,https://i.scdn.co/image/ab67616d0000b2737c8510f493813b5730a6f7ba,2025-11-26,33.0,1.0,True,2025-11-15,Growth Phase
+2025-11-23,49,Imperio,Duki,76,168711,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-22,47.0,-2.0,True,2025-11-03,Decline Phase
+2024-12-27,28,It's Beginning to Look a Lot like Christmas,Michael Bublé,87,207199,album,21,False,https://i.scdn.co/image/ab67616d0000b2732ead7786631d8dd3b59be4f0,2024-12-26,28.0,0.0,True,2024-12-25,Mature Phase
+2024-12-27,24,It's the Most Wonderful Time of the Year,Andy Williams,79,151000,album,12,False,https://i.scdn.co/image/ab67616d0000b273585897779cf3591ba0f07650,2024-12-26,24.0,0.0,True,2024-12-25,Mature Phase
+2025-06-17,49,"Japoni (Feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso & Samuel G & Omar Montes,65,248010,single,1,False,https://i.scdn.co/image/ab67616d0000b2732b856322329a6edaff940f42,2025-06-15,50.0,1.0,False,2025-05-05,Other / Unclassified
+2025-04-01,50,"Japoni (feat. Camin, Moncho Chavea, Jthyago & Samueliyo Baby)",Oscar el Ruso & Samuel G & Omar Montes,73,248004,single,1,False,https://i.scdn.co/image/ab67616d0000b273dd62eb5996c78cd9fd911fa8,2025-03-20,50.0,0.0,False,2025-01-18,Other / Unclassified
+2024-12-27,20,Jingle Bell Rock,Bobby Helms,94,130973,single,2,False,https://i.scdn.co/image/ab67616d0000b273fd56f3c7a294f5cfe51c7b17,2024-12-26,20.0,0.0,True,2024-12-25,Mature Phase
+2024-08-05,50,K-POP,Travis Scott & Bad Bunny & The Weeknd,93,185220,single,1,True,https://i.scdn.co/image/ab67616d0000b273893489768de0c42b4d217b82,2024-08-04,50.0,0.0,True,2024-07-23,Other / Unclassified
+2025-11-27,2,KASSANDRA,Quevedo,72,183172,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,2.0,0.0,True,2025-11-24,New Entry
+2025-03-28,49,KTM,Jhayco & Bryant Myers & Luar La L,70,366760,single,1,True,https://i.scdn.co/image/ab67616d0000b273f2d4aa9ae3b059ca9544ab5e,2025-03-27,50.0,1.0,True,2025-03-24,Growth Phase
+2025-11-27,11,Khé?,Rauw Alejandro,83,206066,album,18,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-26,14.0,3.0,True,2025-11-17,Growth Phase
+2025-11-27,22,LA 125,Quevedo,67,194286,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,21.0,-1.0,True,2025-11-24,New Entry
+2024-07-12,47,LA BABY,Tainy,78,182857,album,19,False,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b,2024-07-11,50.0,3.0,True,2024-07-02,Growth Phase
+2025-09-25,49,LA CAPI,Myke Towers,75,202360,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,2025-09-24,40.0,-9.0,True,2024-12-14,Decline Phase
+2025-11-23,44,LA FALDA,Myke Towers,83,174229,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,2025-11-22,43.0,-1.0,True,2024-11-25,Decline Phase
+2024-08-11,50,LA INOCENTE,Mora,88,202173,album,15,True,https://i.scdn.co/image/ab67616d0000b273851222dc5c5681bd4c3119d3,2024-08-10,50.0,0.0,True,2024-05-30,Other / Unclassified
+2025-10-15,42,LA MARINA STA MORENA,Figa Flawas,71,131332,single,1,False,https://i.scdn.co/image/ab67616d0000b273e83b5175556817a761725d05,2025-10-14,39.0,-3.0,True,2025-08-07,Decline Phase
+2025-05-25,48,LA NENA,Lyanno & Rauw Alejandro,80,200040,single,1,True,https://i.scdn.co/image/ab67616d0000b2739b6ba2e8aff0caf9147195e0,2025-05-24,47.0,-1.0,True,2025-04-21,Decline Phase
+2025-07-16,45,LA RANGER (feat. Myke Towers),The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,78,229738,album,9,True,https://i.scdn.co/image/ab67616d0000b27376d202b234aa815077af5c96,2025-07-15,45.0,0.0,True,2025-03-31,Other / Unclassified
+2025-11-26,48,LA REINA,Lola Indigo,73,150000,single,1,False,https://i.scdn.co/image/ab67616d0000b273237f2c6530efb88428bb177e,2025-11-25,45.0,-3.0,True,2025-06-16,Decline Phase
+2025-04-29,47,LA RIJANA,SAIKO,60,137172,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-04-28,41.0,-6.0,True,2025-04-28,Decline Phase
+2025-05-04,9,LA SEVILLANA,Omar Montes,77,220346,single,1,False,https://i.scdn.co/image/ab67616d0000b273d91f3f1cdbbf556e15d8e855,2025-05-03,9.0,0.0,True,2025-04-14,Peak Phase
+2025-07-03,47,LA SEVILLANA - SEVILLANAS,Omar Montes,60,220360,album,11,False,https://i.scdn.co/image/ab67616d0000b273b97f603621a230afd6e578df,2025-07-02,47.0,0.0,True,2025-05-05,Other / Unclassified
+2024-12-02,48,LA VUELTA,Feid,0,121920,album,10,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,,,,False,2024-12-02,Other / Unclassified
+2025-03-23,43,LA ÚLTIMA,Quevedo,78,170322,single,1,False,https://i.scdn.co/image/ab67616d0000b27366a722b9c27033ecd5d9a899,2025-03-22,46.0,3.0,True,2025-02-03,Growth Phase
+2024-09-02,28,LAGUNA,Mora,76,246593,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,28.0,0.0,True,2024-08-30,Mature Phase
+2025-09-24,49,LALA,Myke Towers,85,197920,album,23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05,2025-09-23,47.0,-2.0,True,2024-06-29,Decline Phase
+2024-08-29,40,LAS BABYS,Aitana,79,153827,single,1,True,https://i.scdn.co/image/ab67616d0000b273d97fd92a38320a899113f139,2024-08-28,34.0,-6.0,True,2024-06-09,Decline Phase
+2025-03-31,43,LATTE (feat. Maria Becerra),The Academy: Segunda Misión & Sech & Dalex,53,260534,album,9,True,https://i.scdn.co/image/ab67616d0000b273381877b5a52a8907785eda84,,,,False,2025-03-31,Other / Unclassified
+2024-09-02,39,LOKITA,Mora,75,154154,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,39.0,0.0,True,2024-08-30,Other / Unclassified
+2025-11-27,6,LOS DÍAS CONTADOS,Quevedo,70,161943,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,5.0,-1.0,True,2025-11-24,New Entry
+2024-10-20,50,LOS PITS,Bad Bunny,85,250851,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-19,48.0,-2.0,True,2024-10-14,Decline Phase
+2025-02-03,46,LUCES DE TECNO,Feid,80,164293,album,16,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b,2025-02-02,46.0,0.0,True,2024-09-30,Other / Unclassified
+2025-11-27,50,LUNA,Feid,88,196800,album,10,False,https://i.scdn.co/image/ab67616d0000b273f1aad814a40ec7419c234242,2025-11-26,46.0,-4.0,True,2024-12-02,Decline Phase
+2025-05-09,47,LUNA,SAIKO,70,240923,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-08,38.0,-9.0,True,2025-04-28,Decline Phase
+2025-05-30,44,LUNCH,Billie Eilish,95,179586,album,10,False,https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62,2025-05-29,34.0,-10.0,True,2025-05-19,Decline Phase
+2024-12-02,12,La Baby,Brytiago,74,161333,single,1,True,https://i.scdn.co/image/ab67616d0000b2730c705e25f25ce26e992dbb49,2024-12-01,3.0,-9.0,True,2024-11-03,Decline Phase
+2025-11-19,46,La Bachata,Manuel Turizo,82,162637,album,15,False,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1,2025-11-18,48.0,2.0,True,2024-05-18,Growth Phase
+2024-08-29,49,La Bebe - Remix,Yng Lvcas & Peso Pluma,96,234352,single,2,True,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9,2024-08-28,49.0,0.0,True,2024-05-18,Other / Unclassified
+2025-01-24,50,La Canción Feliz Del Disco,Eladio Carrion,75,173524,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-01-23,49.0,-1.0,True,2025-01-21,Decline Phase
+2024-06-27,50,La Fiesta,Pedro Capó,76,201044,album,10,False,https://i.scdn.co/image/ab67616d0000b273bb248cd8105d63bca05e2363,2024-06-26,50.0,0.0,True,2024-05-18,Other / Unclassified
+2025-01-25,46,La Gata Bajo La Lluvia,Naiara,55,164678,single,1,False,https://i.scdn.co/image/ab67616d0000b273274811c0dfe252c8d161df65,,,,False,2025-01-25,Other / Unclassified
+2024-06-23,48,La Jumpa,Arcángel,87,255693,album,18,True,https://i.scdn.co/image/ab67616d0000b27330326b23e30ae93d4d48165b,2024-06-22,47.0,-1.0,True,2024-05-18,Decline Phase
+2025-11-06,48,La Rizos [Dime Si Le Comento a la Pura],Las 2K & Chardo Chardemio & Melody Records International,72,218119,single,1,False,https://i.scdn.co/image/ab67616d0000b273c8f78af813afc6b036c4f408,2025-11-05,48.0,0.0,True,2025-08-25,Other / Unclassified
+2025-09-15,46,La Torre Picasso,Arde Bogotá,50,484573,single,1,False,https://i.scdn.co/image/ab67616d0000b27343dcfb6bdeaef09c19d47359,,,,False,2025-09-15,Other / Unclassified
+2025-06-29,47,La Vida Sin Ti,Rels B,76,164470,album,13,False,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,2025-06-28,49.0,2.0,True,2025-04-28,Growth Phase
+2025-04-27,17,La Vida Sin Ti,Rels B & Lia Kali,73,164470,single,1,False,https://i.scdn.co/image/ab67616d0000b2734a7de707fb21914d8b2cbf3e,2025-04-26,26.0,9.0,True,2025-04-25,Growth Phase
+2025-07-16,9,La roja baila - Himno oficial de la selección española,Sergio Ramos & Niña Pastori & RedOne,58,235384,single,1,False,https://i.scdn.co/image/ab67616d0000b273ba91faf241e5c3a13f8e5d21,2025-07-15,9.0,0.0,True,2025-07-15,Peak Phase
+2025-06-03,50,La_Original.mp3,Emilia,79,140625,album,13,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931,2025-06-02,44.0,-6.0,True,2024-11-04,Decline Phase
+2024-05-27,47,Las Bratz (Remix),Aissa & JC Reyes & Saiko,76,444631,single,1,True,https://i.scdn.co/image/ab67616d0000b273a36330e3f5277b9f44286092,2024-05-26,46.0,-1.0,True,2024-05-18,Decline Phase
+2024-12-27,6,Last Christmas - Single Version,Wham!,89,265960,album,16,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615,2024-12-26,6.0,0.0,True,2024-12-23,Peak Phase
+2024-12-27,27,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,95,117146,album,12,False,https://i.scdn.co/image/ab67616d0000b2736d88028a85c771f37374c8ea,2024-12-26,27.0,0.0,True,2024-12-25,Mature Phase
+2024-12-25,33,Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,91,155453,album,14,False,https://i.scdn.co/image/ab67616d0000b273df1066335619efa75889bcfc,,,,False,2024-12-25,Other / Unclassified
+2025-08-10,42,Like I Can (feat. Aitana),Sam Smith & Aitana,38,166707,single,1,False,https://i.scdn.co/image/ab67616d0000b273e6dc0defc4137ff15adf6acf,,,,False,2025-08-10,Other / Unclassified
+2025-11-23,41,Lo Que Tiene,Morad & Beny Jr & Rvfv,75,259200,single,1,False,https://i.scdn.co/image/ab67616d0000b27345e6bba1ac0c5b54a9ee8121,2025-11-22,40.0,-1.0,True,2025-03-10,Decline Phase
+2025-04-18,38,Lo que no ves de mí,Juanjo Bona,69,144000,single,1,False,https://i.scdn.co/image/ab67616d0000b273dff45db9f8292f7ff8c9616f,,,,False,2025-04-18,Other / Unclassified
+2025-01-17,50,Lollipop,Darell,90,199946,album,18,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021,2025-01-16,49.0,-1.0,True,2024-10-02,Decline Phase
+2025-02-16,50,Los del Espacio,LIT killah,85,338000,single,1,False,https://i.scdn.co/image/ab67616d0000b27352a52eac3761e2133bd0f57a,2025-02-15,50.0,0.0,True,2024-06-04,Other / Unclassified
+2024-08-05,44,Los Ángeles,Aitana,81,158483,single,1,False,https://i.scdn.co/image/ab67616d0000b273272365661e2197708b89de01,2024-08-04,42.0,-2.0,True,2024-05-18,Decline Phase
+2025-01-21,43,Luchas Mentales,Eladio Carrion,66,166835,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Other / Unclassified
+2025-11-27,26,Luna llena,Beny Jr,76,169846,album,13,False,https://i.scdn.co/image/ab67616d0000b273ab34293f41ef14fd6aeaed23,2025-11-26,22.0,-4.0,True,2025-07-31,Decline Phase
+2025-04-30,50,M.A.I,Milo j,86,184027,album,10,False,https://i.scdn.co/image/ab67616d0000b27398ee8fad7a30ff328b97d874,2025-04-27,39.0,-11.0,False,2025-01-17,Other / Unclassified
+2024-09-09,44,MALA SUERTE,Lola Indigo & DELLAFUENTE,69,215142,single,1,False,https://i.scdn.co/image/ab67616d0000b27381fac4d7e812d7a3b7eb92a3,2024-09-08,35.0,-9.0,True,2024-09-03,Decline Phase
+2024-08-31,49,MAREA,Mora,69,148082,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-08-30,24.0,-25.0,True,2024-08-30,Decline Phase
+2024-09-21,50,MEDIA LUNA,Mora,81,134948,album,15,False,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-20,50.0,0.0,True,2024-08-30,Other / Unclassified
+2025-08-24,37,MEJOR ASÍ,Myke Towers,0,219480,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Other / Unclassified
+2024-05-27,43,MEMORIAS,Mora,82,228750,album,15,False,https://i.scdn.co/image/ab67616d0000b273851222dc5c5681bd4c3119d3,2024-05-26,43.0,0.0,True,2024-05-18,Other / Unclassified
+2024-10-21,49,MERCEDES CAROTA,Bad Bunny,86,202635,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-20,46.0,-3.0,True,2024-10-14,Decline Phase
+2024-08-29,47,MERCHO,LiL CaKe & Migrantes,86,161451,single,1,False,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c,2024-08-28,43.0,-4.0,True,2024-05-18,Decline Phase
+2024-05-20,50,MI DROGA,Myke Towers,80,163240,album,23,True,https://i.scdn.co/image/ab67616d0000b2730656d5ce813ca3cc4b677e05,2024-05-19,50.0,0.0,True,2024-05-18,Other / Unclassified
+2025-07-31,47,MI EX TENÍA RAZÓN,KAROL G,85,154374,album,9,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03,2025-07-30,47.0,0.0,True,2024-08-13,Other / Unclassified
+2025-08-02,50,MIENTRAS ME CURO DEL CORA,KAROL G,82,164386,album,17,False,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335,2025-08-01,50.0,0.0,True,2025-07-24,Other / Unclassified
+2025-06-17,42,MODELITO,Mora,72,190496,album,14,True,https://i.scdn.co/image/ab67616d0000b273076ef0fed51ff7a4911459e9,2025-06-16,48.0,6.0,True,2024-09-09,Growth Phase
+2024-08-03,50,MOJABI GHOST,Tainy,93,232131,album,19,True,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b,2024-08-02,44.0,-6.0,True,2024-07-02,Decline Phase
+2025-01-12,50,MONACO,Bad Bunny,95,267194,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2025-01-11,50.0,0.0,True,2024-10-14,Other / Unclassified
+2025-11-27,5,MR. MOONDIAL,Quevedo,70,165762,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,6.0,1.0,True,2025-11-24,New Entry
+2024-10-21,46,MR. OCTOBER,Bad Bunny,88,189258,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-20,37.0,-9.0,True,2024-10-14,Decline Phase
+2025-11-27,38,Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae & Pomme & Arcane,77,147973,single,1,False,https://i.scdn.co/image/ab67616d0000b2732aab4ea84f431ad7d92fecbb,,,,False,2025-11-27,New Entry
+2025-04-15,49,Madrid City,Ana Mena,77,172727,single,1,False,https://i.scdn.co/image/ab67616d0000b2739c3dc8b4e881fd2607687a8b,2025-04-14,49.0,0.0,True,2024-09-30,Other / Unclassified
+2025-02-17,40,Mal de amores,Natos y Waor & Israel B,64,255071,single,1,False,https://i.scdn.co/image/ab67616d0000b273a03e8d170b4bec38006a76bc,2025-02-16,37.0,-3.0,True,2025-02-11,Decline Phase
+2025-06-21,49,Malicia,DELLAFUENTE,50,177500,album,10,False,https://i.scdn.co/image/ab67616d0000b2730bc955815b139df8de63616d,2025-06-20,46.0,-3.0,True,2025-06-16,Decline Phase
+2025-01-21,34,Mama's Boy,Eladio Carrion,66,222272,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Other / Unclassified
+2025-03-15,50,Mamasota,Manuel Turizo & Yandel,78,216424,single,1,False,https://i.scdn.co/image/ab67616d0000b2730def7379d2d1676d22c68319,,,,False,2025-03-15,Other / Unclassified
+2024-09-18,48,Mami Chula,Jhayco & Quevedo,80,220600,single,1,False,https://i.scdn.co/image/ab67616d0000b273cb950d94cb42ca9d03754578,2024-09-17,46.0,-2.0,True,2024-05-18,Decline Phase
+2025-04-05,50,Mamichula - con Nicki Nicole,Trueno,86,219201,album,10,False,https://i.scdn.co/image/ab67616d0000b273f4483d4440a89a2cab3b5141,2025-04-03,44.0,-6.0,False,2025-02-18,Other / Unclassified
+2025-11-23,42,Manos Rotas,DELLAFUENTE & Morad,72,168594,single,1,False,https://i.scdn.co/image/ab67616d0000b2731a176de75067ededc26ad96d,2025-11-22,36.0,-6.0,True,2024-11-18,Decline Phase
+2025-06-02,38,Maquillaje,Renn & Yexel,83,211969,single,1,True,https://i.scdn.co/image/ab67616d0000b2730efbcbb23e146b7727db5f0e,2025-06-01,36.0,-2.0,True,2025-03-21,Decline Phase
+2025-07-14,25,Maquillaje - Remix,Renn & Myke Towers & Nio Garcia,76,286283,single,1,True,https://i.scdn.co/image/ab67616d0000b273ec0e7f8b2d1bb8a194f644cc,2025-07-13,29.0,4.0,True,2025-07-10,Growth Phase
+2025-04-24,33,Maquillaje - Remix,refracted arg,52,207342,album,7,False,https://i.scdn.co/image/ab67616d0000b2732f31509c55cab57ccf9a7c82,2025-04-23,41.0,8.0,True,2025-04-21,Growth Phase
+2025-11-23,50,Martini,Dei V,72,164365,album,16,True,https://i.scdn.co/image/ab67616d0000b2734258ad754637017debd78968,2025-11-22,44.0,-6.0,True,2025-05-02,Decline Phase
+2025-11-27,36,Me has invitado a bailar,Dani Fernández,65,192906,album,12,False,https://i.scdn.co/image/ab67616d0000b273f2c5e40937c0e1117c66f4c9,2025-11-26,38.0,2.0,True,2025-09-04,Growth Phase
+2025-01-21,42,Mencionar,Eladio Carrion,66,141818,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Other / Unclassified
+2025-10-27,46,Mi Cuarto,Tiago PZK & Rels B,58,131688,single,1,False,https://i.scdn.co/image/ab67616d0000b27310296855fc2a71b401e9e3b0,,,,False,2025-10-27,Other / Unclassified
+2024-08-18,50,Mi Lova,Bad Gyal & Myke Towers,79,220173,single,1,True,https://i.scdn.co/image/ab67616d0000b273539e71ce43092f758de83c09,2024-08-17,49.0,-1.0,True,2024-07-09,Decline Phase
+2025-10-18,50,Mi Luz (ft. Rels B),Rvfv,75,168000,album,15,False,https://i.scdn.co/image/ab67616d0000b273ea13f28450e095021d2bcbfe,2025-10-17,42.0,-8.0,True,2024-10-23,Decline Phase
+2024-06-10,39,Mi Nena Remix,Maikel Delacalle & Quevedo,81,220000,single,1,False,https://i.scdn.co/image/ab67616d0000b273a354af3e42424c3e01967f5d,2024-06-09,41.0,2.0,True,2024-05-18,Growth Phase
+2025-11-17,36,Mil Mujeres,Rauw Alejandro,65,168922,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,,,,False,2025-11-17,Other / Unclassified
+2025-02-10,50,"Milo J: Bzrp Music Sessions, Vol. 57",Bizarrap & Milo j,83,189901,single,1,False,https://i.scdn.co/image/ab67616d0000b273055cea306ade28a459e948b4,2025-02-09,49.0,-1.0,True,2024-10-07,Decline Phase
+2025-02-02,50,"Milo J: Bzrp Music Sessions, Vol. 57",Paul Thin,56,153024,single,1,False,https://i.scdn.co/image/ab67616d0000b273dc962727a66e10a86dc9c439,2025-02-01,39.0,-11.0,True,2025-02-01,Decline Phase
+2025-07-30,29,Mirame,Blessd & Ovy On The Drums,88,157453,single,1,True,https://i.scdn.co/image/ab67616d0000b273b62a2ec2d61d48f34a368144,2025-07-29,29.0,0.0,True,2025-07-15,Mature Phase
+2025-07-23,47,Mis Tías,Juanjo Bona,62,158400,single,1,False,https://i.scdn.co/image/ab67616d0000b27376b65518d7983b01d2437af4,2025-07-21,44.0,-3.0,False,2025-07-21,Other / Unclassified
+2024-07-01,49,My Love,De La Ghetto & Quevedo,78,214123,single,1,False,https://i.scdn.co/image/ab67616d0000b2734ba8ccd7276fab931c9692b5,2024-06-30,46.0,-3.0,True,2024-06-04,Decline Phase
+2024-10-28,46,NADIE SABE,Bad Bunny,89,379058,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-27,46.0,0.0,True,2024-10-14,Other / Unclassified
+2025-05-02,47,NANA DEL HILO ROJO,SAIKO,68,163893,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-01,29.0,-18.0,True,2025-04-28,Decline Phase
+2024-10-19,49,NO ME QUIERO CASAR,Bad Bunny,84,225654,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-18,34.0,-15.0,True,2024-10-14,Decline Phase
+2025-03-02,50,NO PIENSO LLAMAR,Soge Culebra,69,198352,album,13,False,https://i.scdn.co/image/ab67616d0000b273890db83272f7dff65eb2e41d,2025-02-28,48.0,-2.0,False,2024-10-14,Other / Unclassified
+2024-10-13,19,NO PIENSO LLAMAR,Soge Culebra & Quevedo & GARABATTO,72,198352,single,1,False,https://i.scdn.co/image/ab67616d0000b2739480e076bdc6f49951f84d48,2024-10-12,16.0,-3.0,True,2024-10-07,Decline Phase
+2025-11-27,23,NOEMÚ,Quevedo,67,206910,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,26.0,3.0,True,2025-11-24,New Entry
+2025-06-11,50,Narcotics (with Bryant Myers),Dei V & Bryant Myers,74,173991,single,1,True,https://i.scdn.co/image/ab67616d0000b2735b8ec2b9361e0bbf841860cf,2025-06-10,50.0,0.0,True,2024-10-04,Other / Unclassified
+2025-04-13,47,"Natanael Cano: Bzrp Music Sessions, Vol. 59",Bizarrap & Natanael Cano,83,155888,single,1,True,https://i.scdn.co/image/ab67616d0000b2734e5b3584c8d41b4f75cefcea,2025-04-12,43.0,-4.0,True,2025-04-06,Decline Phase
+2025-08-30,49,New Woman (feat. ROSALÍA),LISA & ROSALÍA,91,179789,single,1,False,https://i.scdn.co/image/ab67616d0000b2737c451a4f06288da6edf050c1,2025-08-29,49.0,0.0,True,2025-08-17,Other / Unclassified
+2025-11-22,50,Ni Me Conozco,Rauw Alejandro,75,229787,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-21,42.0,-8.0,True,2025-11-17,Decline Phase
+2024-08-08,49,Niña Bonita,Feid & Sean Paul,88,187653,single,1,False,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f,2024-08-07,49.0,0.0,True,2024-05-18,Other / Unclassified
+2025-04-20,49,No Digas Na,Feid & Yandel,74,208386,single,5,False,https://i.scdn.co/image/ab67616d0000b2736d9e4531af31264051a5fbe9,2025-04-19,48.0,-1.0,True,2025-04-17,Decline Phase
+2024-06-23,50,No Estuviste En Lo Malo,Morad,77,247680,album,19,False,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19,2024-06-02,50.0,0.0,False,2024-05-18,Other / Unclassified
+2025-01-31,50,No Estuviste En Lo Malo - REMIX,Morad & Beny Jr & DELLAFUENTE,77,268320,single,1,False,https://i.scdn.co/image/ab67616d0000b27318015bf511642e06641d0a8e,2025-01-30,49.0,-1.0,True,2024-10-07,Decline Phase
+2025-11-27,40,No Has Cambiado,Baby Rasta & Noriel & Hades66,71,276404,single,1,True,https://i.scdn.co/image/ab67616d0000b273ef7ff4ddd885e4a767d56cad,2025-11-26,47.0,7.0,True,2025-10-13,Growth Phase
+2025-04-10,43,No Te Quieren Conmigo,Gaby Music & Lunay & Luar La L,84,252040,single,1,False,https://i.scdn.co/image/ab67616d0000b2732a34291b34be349de3e1fa3b,2025-04-09,29.0,-14.0,True,2024-12-20,Decline Phase
+2025-04-27,47,No Te Quieren Conmigo - Remix,Gaby Music & Anuel AA & Luar La L,77,328226,single,1,False,https://i.scdn.co/image/ab67616d0000b27346c5394344ffabe84de5b0f2,2025-04-26,47.0,0.0,True,2025-04-07,Other / Unclassified
+2024-10-13,45,No soy Eterno,Bizarrap & Milo j,80,151468,single,5,False,https://i.scdn.co/image/ab67616d0000b27344fa31a89a1e549f74908a81,2024-10-12,32.0,-13.0,True,2024-10-07,Decline Phase
+2025-02-09,48,No_Se_Ve.mp3,Emilia,76,203636,album,13,False,https://i.scdn.co/image/ab67616d0000b273bfb94590c914538b193f6931,2025-02-08,49.0,1.0,True,2024-11-04,Growth Phase
+2024-11-03,49,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,84,203636,single,1,True,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c,2024-11-02,43.0,-6.0,True,2024-06-08,Decline Phase
+2025-01-09,49,Nochentera,Vicco,75,202184,single,1,False,https://i.scdn.co/image/ab67616d0000b27343eb3794977db60bced5ad16,2025-01-08,45.0,-4.0,True,2024-05-18,Decline Phase
+2025-11-27,30,Nueva Era,Duki,83,217547,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-26,30.0,0.0,True,2025-11-03,Mature Phase
+2025-05-09,49,NÚMERO TELEFÓNICO,SAIKO,72,190000,album,16,True,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-08,39.0,-10.0,True,2025-04-28,Decline Phase
+2025-04-27,45,OA,Anuel AA & Quevedo & Maluma,83,235200,single,1,True,https://i.scdn.co/image/ab67616d0000b27331e30ddd08dde773cd4cbbbe,2025-04-26,45.0,0.0,True,2024-10-16,Other / Unclassified
+2024-11-25,25,OBVIO,Myke Towers,0,162447,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,,,,False,2024-11-25,Mature Phase
+2025-08-23,36,OTRA NOCHE,Myke Towers & Darell,69,224120,single,1,True,https://i.scdn.co/image/ab67616d0000b27388ccf0066cdee2f94168762e,2025-08-22,39.0,3.0,True,2025-08-20,Growth Phase
+2025-11-16,41,OTRA NOCHE (feat. Darell),Myke Towers,73,224120,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-11-15,39.0,-2.0,True,2025-08-24,Decline Phase
+2025-08-24,25,OTRA OPORTUNIDAD,Myke Towers,0,169026,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Mature Phase
+2024-11-25,50,OTRO ROUND,Myke Towers,0,134131,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,,,,False,2024-11-25,Other / Unclassified
+2025-11-27,34,Ohnana,Kapo,84,156577,single,1,False,https://i.scdn.co/image/ab67616d0000b273bec27af08f82b25eb198be4d,2025-11-26,35.0,1.0,True,2025-07-04,Growth Phase
+2025-10-10,49,Omega (feat. Ralphie Choo),ROSALÍA,73,169500,single,1,False,https://i.scdn.co/image/ab67616d0000b27351520e91faa5c5e2a5a94d33,2025-10-09,44.0,-5.0,True,2025-09-27,Decline Phase
+2025-11-23,45,Orgullosa De Papá,Cano,59,174174,album,10,False,https://i.scdn.co/image/ab67616d0000b27386671ccf3e90eee58a717e8b,2025-11-16,45.0,0.0,False,2025-11-01,Other / Unclassified
+2024-11-11,43,Oye BB,Omar Montes & Nicky Jam,25,147662,single,1,False,https://i.scdn.co/image/ab67616d0000b273efa646e0572680d2f073a296,,,,False,2024-11-11,Other / Unclassified
+2024-08-06,49,PA' LA VUELTA,Eladio Carrion & Morad,62,224041,single,1,True,https://i.scdn.co/image/ab67616d0000b273faa062b9894175478fb57988,,,,False,2024-08-06,Other / Unclassified
+2024-10-13,36,PASAJERO,Mora,83,149538,album,15,False,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-10-12,38.0,2.0,True,2024-08-30,Growth Phase
+2024-07-20,50,PASIEMPRE,Tainy,87,355795,album,19,True,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b,2024-07-19,48.0,-2.0,True,2024-07-02,Decline Phase
+2025-11-27,49,PELIGROSA,FloyyMenor,83,134930,album,7,True,https://i.scdn.co/image/ab67616d0000b273200e2b6526846c59789c92e6,2025-11-26,37.0,-12.0,True,2025-07-31,Decline Phase
+2025-03-29,49,PERREO LENTO,Chris Jedi & Gaby Music & Dei V,75,156640,single,5,True,https://i.scdn.co/image/ab67616d0000b273a65227a0b8ffdcf26995187d,2025-03-28,48.0,-1.0,True,2025-03-02,Decline Phase
+2025-05-31,40,PERRO NEGRO,Bad Bunny,89,162767,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2025-04-27,29.0,-11.0,False,2024-10-14,Other / Unclassified
+2025-07-07,50,PERROS&GATA$,Nicki Nicole & SAIKO,68,179612,single,1,False,https://i.scdn.co/image/ab67616d0000b273ad4c3f38a9d2ab1d374439f4,2025-07-06,46.0,-4.0,True,2025-07-04,Decline Phase
+2024-09-02,46,PIDE,Mora,75,207903,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-01,46.0,0.0,True,2024-08-30,Other / Unclassified
+2024-09-29,45,PIRIBIRI,JC Reyes & Pedro Calderon,74,176727,single,1,False,https://i.scdn.co/image/ab67616d0000b27398cebfd9d51fe44a41027047,2024-09-28,49.0,4.0,True,2024-08-09,Growth Phase
+2024-12-12,50,PLAYA DEL INGLÉS,Quevedo,79,237525,album,16,False,https://i.scdn.co/image/ab67616d0000b27378839f40be6e333fe91e92ef,2024-12-11,49.0,-1.0,True,2024-05-18,Decline Phase
+2025-05-09,50,POLARIS - Remix,SAIKO,66,288000,album,16,True,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-08,49.0,-1.0,True,2025-04-28,Decline Phase
+2025-04-20,43,POLARIS - Remix,SAIKO & Feid & Quevedo,80,288000,single,1,True,https://i.scdn.co/image/ab67616d0000b2738f4a278cd5b5b2f65a0f87fd,2025-04-19,40.0,-3.0,True,2025-03-02,Decline Phase
+2025-02-28,36,POLARIS - Remix,Saiko & Feid & Quevedo,83,288000,single,1,True,https://i.scdn.co/image/ab67616d0000b2738f4a278cd5b5b2f65a0f87fd,2025-02-27,30.0,-6.0,True,2024-06-11,Decline Phase
+2025-11-27,19,POR ATRÁS,Quevedo,68,171685,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,19.0,0.0,True,2025-11-24,New Entry
+2024-10-01,46,PRIVILEGIOS,Feid,0,185840,album,15,False,https://i.scdn.co/image/ab67616d0000b273d7071c1defa5a6584cd57c16,2024-09-30,46.0,0.0,True,2024-09-30,Other / Unclassified
+2025-07-30,46,PROVENZA,KAROL G,82,207626,album,17,False,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335,2025-07-29,46.0,0.0,True,2025-07-25,Other / Unclassified
+2025-01-13,50,PUNTO G,Quevedo,84,151324,album,16,False,https://i.scdn.co/image/ab67616d0000b27378839f40be6e333fe91e92ef,2025-01-12,49.0,-1.0,True,2024-05-18,Decline Phase
+2024-10-06,45,Pacto (feat. Bryant Myers & Dei V) - Remix,Jay Wheeler & Anuel AA & Hades66,83,346000,single,1,True,https://i.scdn.co/image/ab67616d0000b27389c54428362a9110e9e772df,2024-10-05,45.0,0.0,True,2024-07-29,Other / Unclassified
+2024-07-01,46,Pacto (feat. Luar La L),Jay Wheeler,72,284021,album,9,True,https://i.scdn.co/image/ab67616d0000b27347e5d87b77548c303a50cc32,2024-06-30,44.0,-2.0,True,2024-06-01,Decline Phase
+2025-11-17,43,Pasaporte,Rauw Alejandro,64,263451,album,18,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,,,,False,2025-11-17,Other / Unclassified
+2025-09-29,49,Pasaporte,Rauw Alejandro & Mr. Naisgai,63,266787,single,1,False,https://i.scdn.co/image/ab67616d0000b273afa6af4c50ebf84fbc5c443e,,,,False,2025-09-29,Other / Unclassified
+2025-09-27,44,Passoa,JHAYCO,70,309280,album,29,False,https://i.scdn.co/image/ab67616d0000b273ed133ea8f343f0f451346a44,2025-09-26,33.0,-11.0,True,2025-09-08,Decline Phase
+2025-09-07,43,Passoa,JHAYCO & Kapo,79,309280,single,1,False,https://i.scdn.co/image/ab67616d0000b273a6336772f71447521b2f2b7d,2025-09-06,34.0,-9.0,True,2025-08-17,Decline Phase
+2024-05-20,47,Paz,Morad,66,186000,album,19,False,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19,2024-05-19,47.0,0.0,True,2024-05-18,Other / Unclassified
+2025-05-21,49,Pedro,Jaxomy & Agatino Romero & Raffaella Carrà,92,144846,single,1,False,https://i.scdn.co/image/ab67616d0000b27384464d902b1ebaf62775a6da,2025-05-20,42.0,-7.0,True,2025-04-14,Decline Phase
+2024-10-12,50,Penas de Antaño,Bizarrap & Milo j,78,201272,single,5,False,https://i.scdn.co/image/ab67616d0000b27344fa31a89a1e549f74908a81,2024-10-11,44.0,-6.0,True,2024-10-09,Decline Phase
+2025-02-24,44,Perdió Este Culo,Bad Gyal,78,159253,album,15,True,https://i.scdn.co/image/ab67616d0000b2730071d93ac1b1e0770e2644f8,2025-02-23,47.0,3.0,True,2025-01-28,Growth Phase
+2024-07-01,47,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,98,188361,single,1,True,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81,2024-06-30,47.0,0.0,True,2024-06-03,Other / Unclassified
+2025-06-20,44,Please Please Please,Sabrina Carpenter,91,186365,single,2,True,https://i.scdn.co/image/ab67616d0000b273de84adf0e48248ea2d769c3e,2025-06-19,42.0,-2.0,True,2025-06-12,Decline Phase
+2024-06-11,46,Polaris,Saiko,78,192122,single,3,True,https://i.scdn.co/image/ab67616d0000b273f2e189392bc20da23aad8c00,2024-06-10,22.0,-24.0,True,2024-05-18,Decline Phase
+2025-08-28,49,Potra Salvaje,Isabel Aaiún,66,199624,album,10,False,https://i.scdn.co/image/ab67616d0000b273a6b020684505961e04379dc0,2025-08-27,42.0,-7.0,True,2025-07-07,Decline Phase
+2025-09-24,48,Potra Salvaje - Hard Remix,Isabel Aaiún & Fernando Moreno,74,342000,single,1,False,https://i.scdn.co/image/ab67616d0000b27340b1d6f6201f92d7f4accc0c,2025-09-23,41.0,-7.0,True,2025-05-29,Decline Phase
+2025-03-07,48,Probemas Mentales,JZAEB & Eix,55,229151,single,1,True,https://i.scdn.co/image/ab67616d0000b27309514b4527862574f3c45ce7,,,,False,2025-03-07,Other / Unclassified
+2025-03-22,22,Problemas Mentales,JZAEB & Eix,68,229151,single,1,True,https://i.scdn.co/image/ab67616d0000b27309514b4527862574f3c45ce7,2025-03-20,23.0,1.0,False,2025-03-20,Mature Phase
+2025-01-19,50,"Ptazeta: Bzrp Music Sessions, Vol. 45",Paul Thin & RUSLANA,59,156973,single,1,False,https://i.scdn.co/image/ab67616d0000b273e930f294ecc754805744a2f7,2025-01-18,42.0,-8.0,True,2025-01-18,Decline Phase
+2024-09-09,49,PÓLVORA,Mora,81,185326,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-09-08,45.0,-4.0,True,2024-08-30,Decline Phase
+2025-11-27,14,Q U E V A S H A C E R H O Y ?,Omar Courtz,89,224022,album,17,True,https://i.scdn.co/image/ab67616d0000b273996764071dbd5240eefb2422,2025-11-26,13.0,-1.0,True,2025-09-25,Decline Phase
+2025-10-19,50,QLONA,KAROL G,85,172797,album,9,True,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03,2025-10-18,47.0,-3.0,True,2024-08-19,Decline Phase
+2025-11-27,35,QUE ASCO DE TODO,Quevedo,66,190304,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,31.0,-4.0,True,2025-11-24,New Entry
+2024-06-04,48,QUEVEDO #49 AFTER HOUR THE MIXTAPE,DJ Saot ST,20,120000,album,49,False,https://i.scdn.co/image/ab67616d0000b27359a2cf2e6c537c8106d4695e,,,,False,2024-06-04,Other / Unclassified
+2024-12-23,47,QUIZÁS SI QUIZÁS NO,Alvaro Diaz & Quevedo,78,203213,single,1,False,https://i.scdn.co/image/ab67616d0000b273a4ffc3bc4be6dd676577856e,2024-12-22,47.0,0.0,True,2024-11-25,Other / Unclassified
+2025-10-17,48,Que Me Lleve el Aire,Luis Cortés,67,170172,single,1,False,https://i.scdn.co/image/ab67616d0000b273cd4cb575a27c3fff0261f427,2025-10-16,45.0,-3.0,True,2025-10-10,Decline Phase
+2024-06-07,46,Que te vaya bien,Rvfv,77,204960,single,1,False,https://i.scdn.co/image/ab67616d0000b27359b60f8a0b0bce8d5bda3ee8,2024-06-06,45.0,-1.0,True,2024-05-18,Decline Phase
+2025-01-03,43,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,87,198937,single,1,False,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf,2025-01-02,47.0,4.0,True,2024-05-18,Growth Phase
+2025-11-25,50,Quickie,Dei V,68,123673,single,1,True,https://i.scdn.co/image/ab67616d0000b273dcac24b177646b58c94970c1,2025-11-24,50.0,0.0,True,2025-11-19,Other / Unclassified
+2025-04-09,50,Quien Es Dei V?,Dei V,78,162244,single,1,True,https://i.scdn.co/image/ab67616d0000b27348093fb42a734d7e0845ade5,2025-04-08,49.0,-1.0,True,2024-09-24,Decline Phase
+2025-06-16,50,Quién es Dei V?,Dei V,13,162244,album,16,True,https://i.scdn.co/image/ab67616d0000b273e4e2fa46f29fb191f699c409,,,,False,2025-06-16,Other / Unclassified
+2025-11-27,7,Qué Pasaría...,Rauw Alejandro,86,191018,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-26,8.0,1.0,True,2025-11-17,Peak Phase
+2025-11-27,44,Qué Pecao,Manuel Turizo,55,230080,album,12,False,https://i.scdn.co/image/ab67616d0000b273559e7ec9717cdc94a218e08d,2025-11-26,43.0,-1.0,True,2025-11-24,New Entry
+2025-11-23,21,Qué Pecao,Manuel Turizo & Kapo,77,230073,single,1,False,https://i.scdn.co/image/ab67616d0000b273dd4d43401f407ba5de4ef0b8,2025-11-22,20.0,-1.0,True,2025-10-06,Decline Phase
+2025-11-26,50,RAPAPA,JC Reyes,71,120888,single,6,False,https://i.scdn.co/image/ab67616d0000b273674dca369535ee283ebeabd7,2025-11-25,49.0,-1.0,True,2025-10-20,Decline Phase
+2025-11-16,48,REAL GANGSTA LOVE,Trueno,82,145342,album,13,True,https://i.scdn.co/image/ab67616d0000b27368a450f7bcdc187e20f0ba0a,2025-11-15,49.0,1.0,True,2025-06-06,Growth Phase
+2025-04-17,45,REINA,Mora,79,211879,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2025-04-16,36.0,-9.0,True,2024-08-30,Decline Phase
+2024-06-04,49,REMIX EXCLUSIVO,Feid,87,206946,single,1,True,https://i.scdn.co/image/ab67616d0000b2733ad20e909064bc0bc7152643,2024-06-03,45.0,-4.0,True,2024-05-18,Decline Phase
+2024-10-01,37,RITMO DE MEDALLO,Feid,0,118693,album,15,False,https://i.scdn.co/image/ab67616d0000b273d7071c1defa5a6584cd57c16,2024-09-30,37.0,0.0,True,2024-09-30,Other / Unclassified
+2024-11-25,48,RITUAL,Myke Towers,0,154432,album,23,True,https://i.scdn.co/image/ab67616d0000b273c75c054b6b209b0b91d818d8,,,,False,2024-11-25,Other / Unclassified
+2025-01-24,45,RKO,Eladio Carrion,73,106666,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-01-23,48.0,3.0,True,2025-01-21,Growth Phase
+2025-08-14,48,RUEDA,Rvfv,66,213120,album,20,False,https://i.scdn.co/image/ab67616d0000b273c172e893cf2ab48a3bb62d04,2025-08-12,47.0,-1.0,False,2025-06-02,Other / Unclassified
+2025-04-28,44,Rapeadita LOVE,Rels B,65,140439,album,13,True,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,,,,False,2025-04-28,Other / Unclassified
+2025-11-27,48,Rapido (with Cris Mj),Dei V,76,146000,album,16,True,https://i.scdn.co/image/ab67616d0000b2734258ad754637017debd78968,2025-11-26,42.0,-6.0,True,2025-06-16,Decline Phase
+2024-12-13,49,Rara Vez,Taiu & Milo j,88,128677,single,1,False,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100,2024-12-09,50.0,1.0,False,2024-05-18,Other / Unclassified
+2024-10-13,48,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56",Bizarrap & Rauw Alejandro,83,191254,single,1,True,https://i.scdn.co/image/ab67616d0000b27395dcc1f2e2a2ad2050f7f41d,2024-10-12,49.0,1.0,True,2024-06-24,Growth Phase
+2025-07-05,46,Razones,Ozuna & Anuel AA & Mambo Kingz,71,222727,single,1,False,https://i.scdn.co/image/ab67616d0000b273e14df5ad5d9c0653cca115af,2025-07-04,42.0,-4.0,True,2025-06-30,Decline Phase
+2024-07-22,48,Remember Me,Duki,63,170624,album,15,False,https://i.scdn.co/image/ab67616d0000b273b0573dd59ca0a000cef8a7fb,2024-07-21,45.0,-3.0,True,2024-07-19,Decline Phase
+2025-11-23,29,Revolú,Rauw Alejandro,77,215511,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-22,33.0,4.0,True,2025-11-17,Growth Phase
+2025-05-12,49,"Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",Sevdaliza & Villano Antillano & Tokischa,86,158728,single,2,True,https://i.scdn.co/image/ab67616d0000b27314c2bc6e79b87f232c38b547,2025-05-11,42.0,-7.0,True,2025-04-26,Decline Phase
+2024-07-02,43,RoCKSTAR 2.0,Duki,78,173729,album,14,True,https://i.scdn.co/image/ab67616d0000b27305f22a3797d9b3cf34e6497c,2024-07-01,29.0,-14.0,True,2024-06-25,Decline Phase
+2024-06-24,14,RoCKSTAR 2.0,Duki & Jhayco,71,173729,single,1,True,https://i.scdn.co/image/ab67616d0000b2735c3a89cf41a72acafa4d5781,,,,False,2024-06-24,Mature Phase
+2024-12-27,11,Rockin' Around The Christmas Tree,Brenda Lee,98,126266,album,12,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3,2024-12-26,11.0,0.0,True,2024-12-24,Mature Phase
+2025-06-21,43,Romero Santo,DELLAFUENTE,53,191414,album,10,False,https://i.scdn.co/image/ab67616d0000b2730bc955815b139df8de63616d,2025-06-20,42.0,-1.0,True,2025-06-16,Decline Phase
+2025-10-26,50,Rosas,La Oreja de Van Gogh,69,237026,album,12,False,https://i.scdn.co/image/ab67616d0000b2730f1c7d18178dc43bbb8fb634,2025-10-25,50.0,0.0,True,2025-10-17,Other / Unclassified
+2024-05-24,44,RÁPIDO,Mora,82,182857,single,1,True,https://i.scdn.co/image/ab67616d0000b2732f99a0f640274d2be2bf9f71,2024-05-23,44.0,0.0,True,2024-05-18,Other / Unclassified
+2024-09-04,48,S91,KAROL G,80,173005,album,9,False,https://i.scdn.co/image/ab67616d0000b273d026bf9d7780f6a1267b4d03,2024-09-03,43.0,-5.0,True,2024-07-16,Decline Phase
+2025-11-16,42,SE ME OLVIDA,Maisak & Feid,84,225373,single,1,True,https://i.scdn.co/image/ab67616d0000b273edd9fbb8df345ace64a558d7,2025-11-15,44.0,2.0,True,2025-08-24,Growth Phase
+2025-08-25,47,SE TE NOTA (feat. Peso Pluma),Myke Towers,63,190106,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-08-24,27.0,-20.0,True,2025-08-24,Decline Phase
+2025-02-13,50,SEDA,Bad Bunny,83,190476,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2025-02-12,49.0,-1.0,True,2024-10-14,Decline Phase
+2025-08-24,45,SEXO DESENFRENADO,Myke Towers,0,243360,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,,,,False,2025-08-24,Other / Unclassified
+2025-02-27,50,SEYA,GIMS,68,188484,album,22,False,https://i.scdn.co/image/ab67616d0000b273e2c2b5235ed7d615ed6cb70a,2025-02-26,50.0,0.0,True,2024-10-21,Other / Unclassified
+2025-11-27,3,SHIBATTO,Quevedo,71,138226,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,3.0,0.0,True,2025-11-24,New Entry
+2025-09-20,47,SI NO ES CONTIGO,Cris Mj,89,156000,single,1,True,https://i.scdn.co/image/ab67616d0000b273b5a456d85aa63ef612e73edb,2025-09-19,46.0,-1.0,True,2025-06-18,Decline Phase
+2025-02-28,50,SI SABE FERXXO,Blessd,86,152500,album,14,True,https://i.scdn.co/image/ab67616d0000b2739634fca36bf59f758ec93aa3,2025-02-27,49.0,-1.0,True,2025-01-28,Decline Phase
+2025-03-31,16,"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",The Academy: Segunda Misión,42,241958,album,9,True,https://i.scdn.co/image/ab67616d0000b273feacd9ca86a98f7c852ab120,,,,False,2025-03-31,Mature Phase
+2025-06-08,50,"SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",The Academy: Segunda Misión & Justin Quiles & Lenny Tavárez,73,241958,album,9,True,https://i.scdn.co/image/ab67616d0000b27376d202b234aa815077af5c96,2025-06-07,50.0,0.0,True,2025-04-01,Other / Unclassified
+2024-07-12,43,SI TE PEGAS,Rauw Alejandro,77,183652,album,14,True,https://i.scdn.co/image/ab67616d0000b273f29d0900444e44b4146409e5,2024-07-11,37.0,-6.0,True,2024-07-09,Decline Phase
+2025-07-17,48,SORRY 4 THAT MUCH,Feid,88,207746,single,1,True,https://i.scdn.co/image/ab67616d0000b273746cdeef8d4a4110f1b5af29,2025-07-16,41.0,-7.0,True,2025-06-09,Decline Phase
+2024-09-11,50,SPANISH TETEO,Rvfv & Rels B & Omar Montes,63,181176,single,1,True,https://i.scdn.co/image/ab67616d0000b273a988b350dd1203a77c947702,2024-09-10,50.0,0.0,True,2024-09-10,Other / Unclassified
+2025-11-27,21,STAR,JC Reyes,73,156000,single,6,False,https://i.scdn.co/image/ab67616d0000b273674dca369535ee283ebeabd7,2025-11-26,23.0,2.0,True,2025-10-20,Growth Phase
+2025-05-03,45,SUPERNOVA,SAIKO,63,190909,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-05-02,45.0,0.0,True,2025-04-28,Other / Unclassified
+2024-06-16,50,Sangre y Fe,Cruz Cafuné,74,231500,album,23,True,https://i.scdn.co/image/ab67616d0000b2734102f96ba4b1df4dfe8bc35f,2024-06-15,49.0,-1.0,True,2024-05-28,Decline Phase
+2025-11-27,43,Santa,Rvssian,83,193038,single,2,False,https://i.scdn.co/image/ab67616d0000b273edf307a421ee80c9262f8dc8,2025-11-26,36.0,-7.0,True,2025-05-22,Decline Phase
+2025-05-21,2,Santa,Rvssian & Rauw Alejandro & Ayra Starr,93,193038,single,1,False,https://i.scdn.co/image/ab67616d0000b273f02899736a6ff8dd538ae70b,2025-05-20,2.0,0.0,True,2025-04-16,Peak Phase
+2024-12-27,29,Santa Tell Me,Ariana Grande,96,204093,single,1,False,https://i.scdn.co/image/ab67616d0000b273a1db745e63940bc06985dea5,2024-12-26,29.0,0.0,True,2024-12-25,Mature Phase
+2025-11-27,24,Se Fue,Rauw Alejandro,80,240179,album,18,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-26,25.0,1.0,True,2025-11-17,Growth Phase
+2024-08-05,49,Se Grita,Morad,85,259627,album,19,True,https://i.scdn.co/image/ab67616d0000b273937ce99b134e3586d0bfdb19,2024-08-04,49.0,0.0,True,2024-07-21,Other / Unclassified
+2025-11-27,12,Se Pone Las Nike,Cano,72,159375,album,10,False,https://i.scdn.co/image/ab67616d0000b27386671ccf3e90eee58a717e8b,2025-11-26,15.0,3.0,True,2025-11-06,Growth Phase
+2025-04-13,43,SexeSexy,Mushkaa,57,232800,album,9,False,https://i.scdn.co/image/ab67616d0000b273a40fe92179074fa776b42393,2025-04-12,44.0,1.0,True,2025-03-31,Growth Phase
+2024-07-18,50,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,93,214945,single,1,False,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812,2024-07-17,50.0,0.0,True,2024-05-18,Other / Unclassified
+2024-12-01,21,Shars 2023,Al Safir,55,163342,single,1,False,https://i.scdn.co/image/ab67616d0000b273d816d8c2f6693fa0666dac30,2024-11-30,21.0,0.0,True,2024-11-30,Mature Phase
+2025-11-27,15,Si Antes Te Hubiera Conocido,KAROL G,93,195824,single,1,False,https://i.scdn.co/image/ab67616d0000b273491678beaffcefac517a699e,2025-11-26,11.0,-4.0,True,2025-06-22,Decline Phase
+2024-08-29,46,Si La Calle Llama - Remix,Eladio Carrion,83,240000,album,18,True,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0,2024-08-28,47.0,1.0,True,2024-05-18,Growth Phase
+2025-04-03,50,Si No Estás,iñigo quintero,89,184061,single,1,False,https://i.scdn.co/image/ab67616d0000b2735cb9531348f45311cd6fb8df,2025-04-02,47.0,-3.0,True,2024-09-20,Decline Phase
+2025-01-21,17,Sigo Enamorau',Eladio Carrion,68,194941,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Mature Phase
+2024-06-03,48,Sin Gato (MIAU!),Rels B,74,148800,single,1,False,https://i.scdn.co/image/ab67616d0000b273c8fcbe53a4a4b0064b0c868c,2024-05-29,50.0,2.0,False,2024-05-28,Other / Unclassified
+2024-12-27,50,Sleigh Ride,The Ronettes,84,181266,album,15,False,https://i.scdn.co/image/ab67616d0000b2731f0d5a8ff630fd5944c3936d,2024-12-26,50.0,0.0,True,2024-12-25,Other / Unclassified
+2024-12-27,42,Snowman,Sia,94,165900,album,13,False,https://i.scdn.co/image/ab67616d0000b273d1410c1372fab1e516328fa8,2024-12-26,42.0,0.0,True,2024-12-25,Other / Unclassified
+2024-12-14,40,Sofi - Remix,Samueliyo Baby & KEVIN ROLDAN,69,171606,single,1,False,https://i.scdn.co/image/ab67616d0000b2736c4320b0e9e678acf5b18834,2024-12-13,35.0,-5.0,True,2024-12-12,Decline Phase
+2024-07-25,49,Solita y SueltAAA,Rels B,70,155789,album,9,False,https://i.scdn.co/image/ab67616d0000b2739c6291f5b78055b9ce32e567,2024-07-24,50.0,1.0,True,2024-07-23,Growth Phase
+2025-11-27,33,Soltera,Shakira,86,214642,single,1,False,https://i.scdn.co/image/ab67616d0000b273ba1b09e33e17904446bbd60e,2025-11-26,32.0,-1.0,True,2025-09-28,Decline Phase
+2025-01-21,16,Sonrisa,Eladio Carrion,68,152380,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Mature Phase
+2025-08-23,48,Sport+ RMX,Clarent & Myke Towers,71,219813,single,1,True,https://i.scdn.co/image/ab67616d0000b273975966486ff88f6fd48b1b09,2025-08-22,49.0,1.0,True,2025-08-15,Growth Phase
+2025-08-09,50,Suano,NTG & Amenazzy,74,137264,single,1,True,https://i.scdn.co/image/ab67616d0000b273498479f6da1d4126c8944970,2025-08-03,50.0,0.0,False,2025-05-16,Other / Unclassified
+2024-12-16,47,Supernova,Saiko,76,190909,single,1,False,https://i.scdn.co/image/ab67616d0000b273c3f5b9580dfc96c80705424a,2024-12-15,46.0,-1.0,True,2024-05-18,Decline Phase
+2024-05-21,49,T'as peur,Aya Nakamura,70,215284,album,15,False,https://i.scdn.co/image/ab67616d0000b27342093925d784c0ef5e6f3705,2024-05-20,45.0,-4.0,True,2024-05-18,Decline Phase
+2025-11-27,45,TAMBIÉN,Myke Towers,80,139546,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,2025-11-26,34.0,-11.0,True,2025-08-24,Decline Phase
+2025-11-27,28,TE FALLÉ,Quevedo,67,219460,album,18,False,https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e,2025-11-26,28.0,0.0,True,2025-11-24,New Entry
+2024-10-28,50,TELEFONO NUEVO,Bad Bunny,89,354784,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-27,50.0,0.0,True,2024-10-14,Other / Unclassified
+2024-11-17,47,THUNDER Y LIGHTNING,Bad Bunny,86,217133,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-11-16,48.0,1.0,True,2024-10-14,Growth Phase
+2025-08-08,48,TQG,KAROL G,83,197933,album,17,True,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335,2025-08-07,50.0,2.0,True,2024-05-18,Growth Phase
+2025-01-26,48,TQMQA,Eladio Carrion,74,169911,album,17,False,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,2025-01-25,39.0,-9.0,True,2024-12-17,Decline Phase
+2025-08-16,50,TU$$I (with Dei V),YOVNGCHIMI,77,163200,album,16,True,https://i.scdn.co/image/ab67616d0000b2737f78a2ab5493d36b22819aa5,2025-08-15,50.0,0.0,True,2025-03-02,Other / Unclassified
+2024-07-18,45,TUYA,ROSALÍA,87,154551,single,1,True,https://i.scdn.co/image/ab67616d0000b273fdac20e82a98955918ac8ba5,2024-07-17,45.0,0.0,True,2024-06-11,Other / Unclassified
+2025-03-05,49,Tacos Gucci,Anuel AA,84,207157,single,1,True,https://i.scdn.co/image/ab67616d0000b2734b021a58cb68c8a645cb0c5e,2025-03-04,49.0,0.0,True,2025-02-18,Other / Unclassified
+2025-01-21,27,Tanta Droga,Eladio Carrion,68,248878,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Mature Phase
+2025-09-03,50,Taste,Sabrina Carpenter,92,157279,album,12,False,https://i.scdn.co/image/ab67616d0000b273208dc3669313f2c5114c612d,2025-09-02,50.0,0.0,True,2025-08-29,Other / Unclassified
+2024-06-02,48,Tattoo,Loreen,93,183374,single,1,False,https://i.scdn.co/image/ab67616d0000b2732b0ba87db609976eee193bd6,2024-06-01,47.0,-1.0,True,2024-05-18,Decline Phase
+2024-09-29,50,Te Menti,Ozuna & Saiko & Ovy On The Drums,77,187129,single,1,False,https://i.scdn.co/image/ab67616d0000b2730696a697cc0f193ca4b2c8b3,2024-09-28,50.0,0.0,True,2024-09-19,Other / Unclassified
+2025-06-11,47,Tengo Un Plan,Key-Key,74,189282,single,1,False,https://i.scdn.co/image/ab67616d0000b273ca54cfdaffd9f3d1bd763246,2025-06-10,47.0,0.0,True,2025-04-04,Other / Unclassified
+2025-06-04,44,Thalía,Cyril Kamer,73,183428,single,1,False,https://i.scdn.co/image/ab67616d0000b273383d42ac28916739f1722815,2025-06-03,44.0,0.0,True,2025-03-15,Other / Unclassified
+2025-08-23,47,Thalía - Remix,Cyril Kamer & Rvfv & Polimá Westcoast,72,230857,single,1,False,https://i.scdn.co/image/ab67616d0000b2733e242bdd9632c6a49a693b1b,2025-08-22,47.0,0.0,True,2025-07-18,Other / Unclassified
+2025-05-18,49,The Code,Nemo,83,180141,single,1,False,https://i.scdn.co/image/ab67616d0000b2738b736cc468fee080a0e8dad0,2025-05-17,49.0,0.0,True,2025-05-14,Other / Unclassified
+2025-10-02,46,The Emptiness Machine,Linkin Park,93,190427,single,1,True,https://i.scdn.co/image/ab67616d0000b273c0db065619ed208515412917,2025-09-30,49.0,3.0,False,2025-09-11,Other / Unclassified
+2025-09-29,50,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,79,256000,single,1,True,https://i.scdn.co/image/ab67616d0000b273ee2fe4a7b285d3817b470859,,,,False,2025-09-29,Other / Unclassified
+2024-09-23,33,Todo Contigo,Álvaro De Luna,77,165527,single,1,False,https://i.scdn.co/image/ab67616d0000b2737d45bffb03d186c1f4a47a83,2024-09-22,27.0,-6.0,True,2024-05-18,Decline Phase
+2025-01-21,23,Todo Lit,Eladio Carrion,67,241951,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Mature Phase
+2024-10-13,35,Toy en el Mic,Bizarrap & Milo j,81,137053,single,5,True,https://i.scdn.co/image/ab67616d0000b27344fa31a89a1e549f74908a81,2024-10-12,28.0,-7.0,True,2024-10-07,Decline Phase
+2025-01-21,32,Tranquila Baby,Eladio Carrion,67,128000,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Other / Unclassified
+2025-11-09,48,Trato De Estar Bien,Duki,68,213408,album,15,False,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-08,46.0,-2.0,True,2025-11-03,Decline Phase
+2025-07-20,49,Trending Remix (with Myke Towers),Dei V,65,225154,album,16,True,https://i.scdn.co/image/ab67616d0000b2734258ad754637017debd78968,2025-07-19,47.0,-2.0,True,2025-03-03,Decline Phase
+2025-01-21,21,Tu Ritmo,Eladio Carrion,68,158446,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,,,,False,2025-01-21,Mature Phase
+2025-10-28,50,Tu Silueta,Diegote,73,170480,single,1,False,https://i.scdn.co/image/ab67616d0000b2736518521ad94c725c376cbe84,2025-10-27,49.0,-1.0,True,2025-07-14,Decline Phase
+2025-11-23,33,Tú Con Él,Rauw Alejandro,79,289131,album,18,False,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,2025-11-22,34.0,1.0,True,2025-11-17,Growth Phase
+2024-08-31,42,UN DESEO,Mora,69,218883,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,2024-08-30,20.0,-22.0,True,2024-08-30,Decline Phase
+2024-11-02,49,UN PREVIEW,Bad Bunny,87,165582,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-11-01,47.0,-2.0,True,2024-09-27,Decline Phase
+2025-04-27,46,UNA BACHATA,Lola Indigo,73,157846,album,7,False,https://i.scdn.co/image/ab67616d0000b27346dd0b9800fd85b41e7cfbbd,2025-04-26,46.0,0.0,True,2025-02-04,Other / Unclassified
+2025-11-27,42,UWAIE,Kapo,86,172427,single,1,False,https://i.scdn.co/image/ab67616d0000b27379945367a260e985a4471dc3,2025-11-26,45.0,3.0,True,2025-08-20,Growth Phase
+2025-05-15,44,Un Desperdicio,Rels B,83,223783,album,13,False,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,2025-05-14,50.0,6.0,True,2025-04-28,Growth Phase
+2024-09-23,46,Un Rodeoooo,Rels B,77,136082,album,9,False,https://i.scdn.co/image/ab67616d0000b2738bcb501bb5bc4ed28cce6ecc,2024-09-22,48.0,2.0,True,2024-07-23,Growth Phase
+2025-06-15,49,Una Foto Remix (feat. Emilia),Mesita & Nicki Nicole & Tiago PZK,77,243898,single,1,False,https://i.scdn.co/image/ab67616d0000b273d7e3250bc4b38c29a68a8af9,2025-06-14,49.0,0.0,True,2025-01-11,Other / Unclassified
+2025-09-27,46,Una Velita,Bad Bunny,78,239986,single,1,True,https://i.scdn.co/image/ab67616d0000b273eb5efee120bead72cefb2f0d,2025-09-26,43.0,-3.0,True,2025-09-22,Decline Phase
+2024-12-27,40,Underneath the Tree,Kelly Clarkson,86,229640,album,14,False,https://i.scdn.co/image/ab67616d0000b273f54a315f1d2445791fe601a7,2024-12-26,40.0,0.0,True,2024-12-25,Other / Unclassified
+2024-09-26,20,VAGABUNDO,Sebastian Yatra,44,215600,album,12,False,https://i.scdn.co/image/ab67616d0000b2736c8e5cf9a93f7922df84bf53,2024-09-25,20.0,0.0,True,2024-09-24,Mature Phase
+2025-10-16,47,VAGABUNDO,Sebastian Yatra & Manuel Turizo & Beéle,78,215600,single,1,False,https://i.scdn.co/image/ab67616d0000b2732d6016751b8ea5e66e83cd04,2025-10-15,45.0,-2.0,True,2024-05-18,Decline Phase
+2024-08-12,50,VENTE CONMIGO,Feid,80,186000,single,1,False,https://i.scdn.co/image/ab67616d0000b2739cbc2d73921f81de5be53306,2024-08-11,49.0,-1.0,True,2024-08-06,Decline Phase
+2024-07-29,50,VISTA AL MAR,Quevedo,83,180672,album,16,False,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0,2024-07-28,49.0,-1.0,True,2024-05-21,Decline Phase
+2024-07-02,49,VOLVER,Tainy,69,185806,album,19,True,https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b,,,,False,2024-07-02,Other / Unclassified
+2024-10-18,37,VOU 787,Bad Bunny,85,123643,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-17,37.0,0.0,True,2024-10-14,Other / Unclassified
+2024-10-18,41,VUELVE CANDY B,Bad Bunny,83,266171,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-17,41.0,0.0,True,2024-10-14,Other / Unclassified
+2025-03-30,50,"VVS Switch (feat. Hades66, Luar La L & CDobleta) - Remix",Pressure 9X19 & Anuel AA & YOVNGCHIMI,79,555071,single,1,True,https://i.scdn.co/image/ab67616d0000b273a1d460f51f7ab90e95db42bf,2025-03-29,47.0,-3.0,True,2025-03-17,Decline Phase
+2025-11-27,47,Vacile,Yan Block,78,140239,single,1,True,https://i.scdn.co/image/ab67616d0000b273b7a46e20a5af267c6ba14de8,2025-11-26,40.0,-7.0,True,2025-08-15,Decline Phase
+2025-11-10,48,Vida De Rock,Duki,73,181503,album,15,True,https://i.scdn.co/image/ab67616d0000b273ee67e1ebdbc7a30772972a48,2025-11-09,41.0,-7.0,True,2025-11-03,Decline Phase
+2024-12-07,49,WANDA,Quevedo,82,160909,album,16,False,https://i.scdn.co/image/ab67616d0000b27378839f40be6e333fe91e92ef,2024-12-06,49.0,0.0,True,2024-05-18,Other / Unclassified
+2024-10-28,49,WHERE SHE GOES,Bad Bunny,85,231704,album,22,True,https://i.scdn.co/image/ab67616d0000b2737b1fc51ff3257b5286a1ecec,2024-10-27,49.0,0.0,True,2024-05-21,Other / Unclassified
+2025-11-16,46,WYA REMIX RED,J Abdiel & De La Rose & Yan Block,81,321741,single,1,True,https://i.scdn.co/image/ab67616d0000b273b74935c2ae87cf1754391dc9,2025-11-15,42.0,-4.0,True,2025-06-19,Decline Phase
+2025-07-31,50,Whisky,Samuel G & Oscar el Ruso & Aissa,71,305265,single,1,False,https://i.scdn.co/image/ab67616d0000b273e9d751e56c038ebbdb6dbfa3,2025-07-30,38.0,-12.0,True,2025-07-17,Decline Phase
+2025-03-09,49,X'CLUSIVO,Gonzy,79,175586,single,1,True,https://i.scdn.co/image/ab67616d0000b2730d794d552d994dce792e412a,2025-03-08,48.0,-1.0,True,2025-01-31,Decline Phase
+2025-11-23,40,X'CLUSIVO - REMIX,Gonzy,64,208133,album,18,True,https://i.scdn.co/image/ab67616d0000b2739b6b17f9c7fe03849d6d8a79,2025-11-22,42.0,2.0,True,2025-10-13,Growth Phase
+2025-10-12,22,X'CLUSIVO - REMIX,Gonzy & SAIKO & Arcángel,74,208133,single,1,True,https://i.scdn.co/image/ab67616d0000b2735327757614a832374e491778,2025-10-11,22.0,0.0,True,2025-03-03,Mature Phase
+2025-01-05,42,Xxx_Rosario_xxX,Saiko,71,188936,album,7,True,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e,2025-01-04,32.0,-10.0,True,2024-12-24,Decline Phase
+2025-08-16,46,YO LO SOÑÉ,SAIKO,67,175456,album,16,False,https://i.scdn.co/image/ab67616d0000b273e346fc6f767ca2ac8365fe60,2025-08-15,46.0,0.0,True,2025-04-28,Other / Unclassified
+2025-04-27,2,YO LO SOÑÉ,SAIKO & Omar Montes,75,175456,single,1,False,https://i.scdn.co/image/ab67616d0000b2731818c943fc42bfffaa670bea,2025-04-26,2.0,0.0,True,2025-04-19,Peak Phase
+2024-12-24,50,YO TENGO UN NOVIO,Lola Indigo,63,144424,album,7,False,https://i.scdn.co/image/ab67616d0000b273e5d4842267050704b1c82928,2024-12-23,19.0,-31.0,True,2024-12-17,Decline Phase
+2025-11-05,46,YOTULOKO,Omar Montes & Rels B,72,213699,single,1,False,https://i.scdn.co/image/ab67616d0000b273bc825cd5e50550436226bc1d,2025-11-04,41.0,-5.0,True,2025-07-14,Decline Phase
+2024-12-25,34,Ya es Navidad Popurrí: Ya es Navidad- Zúmbale a la pandereta - Ya vienen los Reyes Magos - Arre Borriquito - Ya es Navidad,Raya Real,50,262144,album,9,False,https://i.scdn.co/image/ab67616d0000b2732bb974fd826131c6cbeb9047,,,,False,2024-12-25,Other / Unclassified
+2024-09-23,40,Yandel 150,Yandel,84,216148,album,17,True,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700,2024-09-22,41.0,1.0,True,2024-05-18,Growth Phase
+2024-06-18,46,Yankee 150,Yandel & Feid & Daddy Yankee,68,242667,single,1,True,https://i.scdn.co/image/ab67616d0000b2730088f4ed0c4260dba427c376,,,,False,2024-06-18,Other / Unclassified
+2025-11-27,20,Yo sé,Yan Block & TORRRES,76,129705,single,1,True,https://i.scdn.co/image/ab67616d0000b2730ba9580b90b07d30d5547697,2025-11-26,20.0,0.0,True,2025-11-01,Mature Phase
+2025-04-26,50,"Young Miko: Bzrp Music Sessions, Vol. 58",Bizarrap & Young Miko,86,187172,single,1,False,https://i.scdn.co/image/ab67616d0000b2737b58409ef2fbbcd4d0f4ed05,2025-04-24,50.0,0.0,False,2025-01-13,Other / Unclassified
+2025-05-18,50,ZORRA,Nebulossa,74,183577,single,1,True,https://i.scdn.co/image/ab67616d0000b273ea9b1f22906119b42edf93f7,2025-05-17,50.0,0.0,True,2025-02-05,Other / Unclassified
+2025-05-30,50,a new star (2 0 2 4),Rels B,76,142235,album,13,True,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,2025-05-25,46.0,-4.0,False,2025-05-09,Other / Unclassified
+2025-05-01,48,caída del cielo <3,Rels B,71,133220,album,13,True,https://i.scdn.co/image/ab67616d0000b2736a78a042e38096089d60841a,2025-04-28,38.0,-10.0,False,2025-04-28,Other / Unclassified
+2025-07-21,34,do it 4 th€ gram,Cruz Cafuné,54,150582,single,6,True,https://i.scdn.co/image/ab67616d0000b273cc119fa339446b1facabf24f,,,,False,2025-07-21,Other / Unclassified
+2024-06-29,50,don't liE,Duki,75,213892,album,14,False,https://i.scdn.co/image/ab67616d0000b27305f22a3797d9b3cf34e6497c,2024-06-28,44.0,-6.0,True,2024-06-25,Decline Phase
+2025-10-19,47,haz lo que quieras conmigo,Walls,68,208603,single,1,False,https://i.scdn.co/image/ab67616d0000b27372262e4abf3806b95b06ca8e,2025-10-18,44.0,-3.0,True,2025-09-22,Decline Phase
+2025-05-02,50,i like the way you kiss me,Artemas,100,142514,single,1,False,https://i.scdn.co/image/ab67616d0000b273e67611dbbf69a90d0b6cb738,2025-04-27,27.0,-23.0,False,2025-04-04,Other / Unclassified
+2025-05-14,47,la noia,Angelina Mango,80,189124,single,1,False,https://i.scdn.co/image/ab67616d0000b2732f4c9c6288bf8e2075833abc,,,,False,2025-05-14,Other / Unclassified
+2025-07-26,50,la raíz d€l mal,Cruz Cafuné,61,133767,single,6,True,https://i.scdn.co/image/ab67616d0000b273cc119fa339446b1facabf24f,2025-07-25,48.0,-2.0,True,2025-07-21,Decline Phase
+2025-03-02,49,lady madrizZz,céro,75,131020,single,1,False,https://i.scdn.co/image/ab67616d0000b2736eb7f167c85a60c4538a1fd3,2025-02-28,44.0,-5.0,False,2024-11-03,Other / Unclassified
+2024-09-26,37,miamor,Aitana,55,159360,album,15,False,https://i.scdn.co/image/ab67616d0000b2732f74dd3a7c4ec82b58479b56,2024-09-25,37.0,0.0,True,2024-09-24,Other / Unclassified
+2024-09-23,43,miamor,Aitana & Rels B,78,159360,single,1,False,https://i.scdn.co/image/ab67616d0000b273e2796e5a101ae380b6f94e54,2024-09-22,44.0,1.0,True,2024-08-26,Growth Phase
+2025-07-21,43,m€ntiras,Cruz Cafuné,54,151841,single,6,True,https://i.scdn.co/image/ab67616d0000b273cc119fa339446b1facabf24f,,,,False,2025-07-21,Other / Unclassified
+2025-06-15,48,offline,Young Miko,81,201935,album,16,True,https://i.scdn.co/image/ab67616d0000b27310dfb6ef442ace580aa5a2bf,2025-06-14,48.0,0.0,True,2025-04-07,Other / Unclassified
+2025-07-21,47,rang€ rov€r,Cruz Cafuné,53,117213,single,6,True,https://i.scdn.co/image/ab67616d0000b273cc119fa339446b1facabf24f,,,,False,2025-07-21,Other / Unclassified
+2025-04-18,39,rompeolas,Martin Urrutia,69,162519,single,1,False,https://i.scdn.co/image/ab67616d0000b273d54e85c2603a6faf168c82fd,2025-04-12,45.0,6.0,False,2025-04-12,Other / Unclassified
+2024-06-14,50,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,False,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06,2024-06-13,50.0,0.0,True,2024-05-18,Other / Unclassified
+2024-07-02,48,vampire,Olivia Rodrigo,85,219724,single,1,True,https://i.scdn.co/image/ab67616d0000b2731e5e75dc1d878a0007cb6525,,,,False,2024-07-02,Other / Unclassified
+2025-03-20,47,we can't be friends (wait for your love),Ariana Grande,92,228639,album,13,False,https://i.scdn.co/image/ab67616d0000b2738b58d20f1b77295730db15b4,2025-03-19,50.0,3.0,True,2025-03-11,Growth Phase
+2025-01-20,40,"yes, and?",Ariana Grande,94,214994,single,1,True,https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6,2025-01-19,36.0,-4.0,True,2025-01-14,Decline Phase
