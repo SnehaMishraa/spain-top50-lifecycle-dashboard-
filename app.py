@@ -124,7 +124,7 @@ st.caption(
     f"for the selected filters."
 )
 
-st.info("Dashboard layout and KPI cards are ready. Interactive charts are coming next.")
+
 
 
 st.markdown("---")
